@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <Header>
+    <Version val="14100.00"/>
+    <WithIsn val="Y"/>
+    <Exe comp="-1"/>
+    <LastIsn val="103"/>
+    <LastIsnFolder val="6"/>
+  </Header>
+
+  <ProgramsRepositoryOutLine>
+    <Programs>
+      <Program id="1"/>
+      <Program id="44"/>
+      <Program id="45"/>
+      <Program id="46"/>
+      <Program id="48"/>
+      <Program id="49"/>
+      <Program id="50"/>
+      <Program id="51"/>
+      <Program id="55"/>
+      <Program id="72"/>
+      <Program id="52"/>
+      <Program id="62"/>
+      <Program id="73"/>
+      <Program id="53"/>
+      <Program id="57"/>
+      <Program id="54"/>
+      <Program id="58"/>
+      <Program id="67"/>
+      <Program id="59"/>
+      <Program id="60"/>
+      <Program id="63"/>
+      <Program id="64"/>
+      <Program id="65"/>
+      <Program id="66"/>
+      <Program id="69"/>
+      <Program id="70"/>
+      <Program id="74"/>
+      <Program id="89"/>
+    </Programs>
+  </ProgramsRepositoryOutLine>
+
+</Application>
