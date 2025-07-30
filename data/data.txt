@@ -1,2 +1,4 @@
 faça o download do arquivo .dat no link abaixo
 https://drive.google.com/file/d/11xvQBogB61aFS9gWvUEk3gI06ebCP97q/view?usp=sharing
+
+Extraia dentro desta pasta data.
