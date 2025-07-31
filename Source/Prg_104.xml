@@ -13,9 +13,8 @@
   <ProgramsRepository>
     <Programs>
       <Task MainProgram="N">
-        <Header Description="&lt;&lt;&lt; Iniciar" ISN_2="1" LastIsn="1" id="60">
-          <LastModified _date="739463" _time="48310" date="31/07/2025" time="13:25:10"/>
-          <Public val="RunMe"/>
+        <Header Description="Paises e Cidades Edit" ISEMPTY_TSK="1" ISN_2="1" LastIsn="1" id="104">
+          <LastModified date="00/00/0000" time="00:00:00"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -24,26 +23,14 @@
             <ParametersAttributes/>
           </ReturnValue>
           <SqlWhereExist val="N"/>
-          <TaskType val="C"/>
-          <Interactive val="Y"/>
-          <External val="Y"/>
+          <TaskType val="O"/>
+          <External val="N"/>
           <Offline val="N"/>
           <FormType val="N"/>
           <DotNetObjectExists val="N"/>
         </Header>
-        <ItemIsn val="1"/>
         <Resource>
-          <Columns>
-            <Column id="1" name="padrão">
-              <PropertyList model="FIELD">
-                <Model attr_obj="FIELD_ALPHA" id="1"/>
-                <Picture id="157" valUnicode="20"/>
-                <StoredAs id="173" val="1"/>
-                <Size id="174" val="20"/>
-                <_Flip id="194"/>
-              </PropertyList>
-            </Column>
-          </Columns>
+          <Columns/>
         </Resource>
         <Information>
           <Key>
@@ -75,7 +62,7 @@
             <KeepCreatedContext val="N"/>
           </TaskProperties>
           <SIDE_WIN>
-            <AllowOptions val="N"/>
+            <AllowOptions val="Y"/>
             <AllowQuery val="Y"/>
             <AllowModify val="Y"/>
             <AllowCreate val="Y"/>
@@ -84,8 +71,8 @@
             <AllowRange val="Y"/>
             <AllowIndexChange val="Y"/>
             <AllowSorting val="Y"/>
-            <AllowIOFiles val="N"/>
-            <TabbingCycle val="R"/>
+            <AllowIOFiles val="Y"/>
+            <RecordCycle val="Y"/>
             <AllowEvents val="Y"/>
             <AllowIndexOptimization val="Y"/>
             <AllowLocationInQuery val="Y"/>
@@ -113,7 +100,6 @@
             <Event>
               <EventType val="S"/>
             </Event>
-            <ExecuteOn_ val="O"/>
             <LogicLines>
               <LogicLine>
                 <DATAVIEW_SRC FlowIsn="1" Type="M">
@@ -122,55 +108,15 @@
                   <Direction val="C"/>
                 </DATAVIEW_SRC>
               </LogicLine>
-              <LogicLine>
-                <Select FieldID="1" FlowIsn="3" id="1">
-                  <Column val="1"/>
-                  <Type val="V"/>
-                  <ExposedToRoute val="N"/>
-                  <IsParameter val="N"/>
-                  <DIFF_UPDATE val="T"/>
-                  <Condition val="Y"/>
-                  <Modifier val="S"/>
-                  <Direction val="C"/>
-                </Select>
-              </LogicLine>
             </LogicLines>
           </LogicUnit>
         </TaskLogic>
         <TaskForms>
-          <FormEntry _last_isn="2" _last_test_id="2" id="1">
-            <PropertyList model="FORM_RICH_CLIENT">
-              <Model comp="-1" id="1" obj="3"/>
-              <Width id="23" val="1016"/>
-              <Height id="24" val="847"/>
-              <FormUnits id="33" val="2"/>
-              <VerticalFactor id="34" val="100"/>
-              <HorizontalFactor id="35" val="100"/>
-              <GridX id="38" val="13"/>
-              <GridY id="39" val="34"/>
-              <Wallpaper id="42" val="%WorkingDir%env\Wallpaper.jpg"/>
+          <FormEntry id="1">
+            <PropertyList model="FORM_GUI0">
               <_Comment id="218"/>
-              <FormName id="311" valUnicode="&lt;&lt;&lt; Iniciar"/>
-              <WindowType id="358" val="2"/>
-              <_PulldownMenu comp="-1" id="441" obj="5"/>
-              <_ContextMenu comp="-1" id="442" obj="7"/>
-              <WallpaperStyle id="448" val="4"/>
-              <NavigationDrawerMenu comp="-1" id="662" obj="5"/>
-              <ActionBarMenu comp="-1" id="683" obj="6"/>
+              <FormName id="311" valUnicode="Paises e Cidades Edit"/>
             </PropertyList>
-            <Control _test_id="1" id="1">
-              <PropertyList model="CTRL_RICH_CLIENT_LABEL">
-                <Model comp="-1" id="1" obj="21"/>
-                <Text id="19" valUnicode="Bem-Vindo"/>
-                <Placement id="20" left="50" right="50"/>
-                <X id="21" val="337"/>
-                <Y id="22" val="339"/>
-                <Width id="23" val="308"/>
-                <Height id="24" val="72"/>
-                <_Orientation id="143"/>
-                <_ContextMenu comp="-1" id="442" obj="5"/>
-              </PropertyList>
-            </Control>
           </FormEntry>
         </TaskForms>
       </Task>
