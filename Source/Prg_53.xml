@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="Pedidos Edit" ISN_2="1" LastIsn="1" id="53">
-          <LastModified _date="739462" _time="56608" date="30/07/2025" time="15:43:28"/>
+          <LastModified _date="739463" _time="55289" date="31/07/2025" time="15:21:29"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -31,7 +31,7 @@
           <Interactive val="Y"/>
           <External val="N"/>
           <Offline val="N"/>
-          <FormType val="D"/>
+          <FormType val="N"/>
           <DotNetObjectExists val="N"/>
         </Header>
         <ItemIsn val="19"/>
@@ -503,7 +503,8 @@
               <Height id="24" val="226"/>
               <_Comment id="218"/>
               <FormName id="311" valUnicode="Pedidos Edit"/>
-              <_ContextMenu comp="-1" id="442" obj="6"/>
+              <WindowType id="358" val="6"/>
+              <_ContextMenu comp="-1" id="442" obj="7"/>
               <NavigationDrawerMenu comp="-1" id="662" obj="5"/>
             </PropertyList>
             <Control _test_id="1" id="1">

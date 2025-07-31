@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="Select Cliente" ISN_2="1" LastIsn="1" id="72">
-          <LastModified _date="739456" _time="63229" date="24/07/2025" time="17:33:49"/>
+          <LastModified _date="739463" _time="50807" date="31/07/2025" time="14:06:47"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -307,7 +307,9 @@
               <Wallpaper id="42" val="%WorkingDir%env\Wallpaper.jpg"/>
               <_Comment id="218"/>
               <FormName id="311" valUnicode="Select Cliente"/>
+              <_ContextMenu comp="-1" id="442" obj="7"/>
               <WallpaperStyle id="448" val="5"/>
+              <NavigationDrawerMenu comp="-1" id="662" obj="5"/>
             </PropertyList>
             <Control _test_id="1" id="1">
               <PropertyList model="CTRL_RICH_CLIENT_LABEL">

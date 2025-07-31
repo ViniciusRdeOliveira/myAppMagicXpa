@@ -1308,3 +1308,18 @@
  <513022602935273728> 31/07/2025 13:22:37.115     [Error  ] - Aborting context 513022602935273728, Program: "Main Program".
  <70013939847227248> 31/07/2025 13:28:48.667     [Error  ] - Aborting context 70013939847227248, Program: "Main Program".
  <370928597565883200> 31/07/2025 13:29:40.220     [Error  ] - Aborting context 370928597565883200, Program: "Main Program".
+ <501490457755917824> 31/07/2025 14:05:48.535     [Error  ] - Aborting context 501490457755917824, Program: "Main Program".
+ <216648248649950560> 31/07/2025 14:10:35.038     [Error  ] - Aborting context 216648248649950560, Program: "Main Program".
+
+==============================================
+PID 5796	31/07/2025 14:47:22
+==============================================
+
+
+ <477650149306243264> 31/07/2025 15:23:55.104     [Error  ] - MDI frame is not opened  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "<<< Iniciar".
+ <477650149306243264> 31/07/2025 15:23:57.429     [Error  ] - MDI frame is not opened  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "<<< Iniciar".
+ <477650149306243264> 31/07/2025 15:24:00.598     [Error  ] - MDI frame is not opened  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "<<< Iniciar".
+ <189478224100619648> 31/07/2025 15:24:23.416     [Error  ] - MDI frame is not opened  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "<<< Iniciar".
+ <541536050282732672> 31/07/2025 15:28:43.923     [Error  ] - MDI frame is not opened  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "<<< Iniciar".
+ <541536050282732672> 31/07/2025 15:28:45.344     [Error  ] - MDI frame is not opened  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "<<< Iniciar".
+ <541536050282732672> 31/07/2025 15:28:45.553     [Error  ] - MDI frame is not opened  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "<<< Iniciar".

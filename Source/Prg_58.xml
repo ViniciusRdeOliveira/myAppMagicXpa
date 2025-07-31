@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="Produtos" ISN_2="2" LastIsn="2" id="58">
-          <LastModified _date="739462" _time="56188" date="30/07/2025" time="15:36:28"/>
+          <LastModified _date="739463" _time="50975" date="31/07/2025" time="14:09:35"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -425,7 +425,7 @@
         </Expressions>
         <Task MainProgram="N">
           <Header Description="Produtos" ISN_2="1" LastIsn="2" id="58">
-            <LastModified _date="739460" _time="38440" date="28/07/2025" time="10:40:40"/>
+            <LastModified _date="739463" _time="50975" date="31/07/2025" time="14:09:35"/>
             <ExecutionRight comp="-1"/>
             <Resident val="N"/>
             <SQL val="N"/>
@@ -982,6 +982,7 @@
                 <GridY id="39" val="13"/>
                 <_Comment id="218"/>
                 <FormName id="311" valUnicode="Produtos Landscape"/>
+                <_ContextMenu comp="-1" id="442" obj="7"/>
                 <NavigationDrawerMenu comp="-1" id="662" obj="5"/>
                 <ActionBarMenu id="683"/>
               </PropertyList>
@@ -1220,6 +1221,7 @@
                 <Wallpaper id="42" val="%WorkingDir%env\Wallpaper.jpg"/>
                 <_Comment id="218"/>
                 <FormName id="311" valUnicode="Produtos Portrait"/>
+                <_ContextMenu comp="-1" id="442" obj="7"/>
                 <WallpaperStyle id="448" val="5"/>
                 <NavigationDrawerMenu comp="-1" id="662" obj="5"/>
               </PropertyList>

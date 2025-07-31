@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="Select Fornecedor" ISN_2="1" LastIsn="1" id="73">
-          <LastModified _date="739456" _time="63121" date="24/07/2025" time="17:32:01"/>
+          <LastModified _date="739463" _time="50881" date="31/07/2025" time="14:08:01"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -123,6 +123,7 @@
             <Event>
               <EventType val="S"/>
             </Event>
+            <ExecuteOn_ val="O"/>
             <LogicLines>
               <LogicLine>
                 <DATAVIEW_SRC FlowIsn="1" IDX="1" Type="M">
@@ -254,6 +255,8 @@
               <Width id="23" val="233"/>
               <_Comment id="218"/>
               <FormName id="311" valUnicode="Select Fornecedor"/>
+              <_ContextMenu comp="-1" id="442" obj="7"/>
+              <NavigationDrawerMenu comp="-1" id="662" obj="5"/>
             </PropertyList>
             <Control _test_id="2" id="2">
               <PropertyList model="CTRL_RICH_CLIENT_LABEL">
@@ -264,6 +267,7 @@
                 <Y id="22" val="14"/>
                 <Width id="23" val="198"/>
                 <Height id="24" val="17"/>
+                <_Orientation id="143"/>
               </PropertyList>
             </Control>
             <Control _test_id="9" id="9">

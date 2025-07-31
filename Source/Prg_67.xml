@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="Produtos Edit" ISN_2="1" LastIsn="1" id="67">
-          <LastModified _date="739462" _time="56638" date="30/07/2025" time="15:43:58"/>
+          <LastModified _date="739463" _time="51005" date="31/07/2025" time="14:10:05"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -451,6 +451,7 @@
               <_Comment id="218"/>
               <FormName id="311" valUnicode="Produtos Edit"/>
               <_ContextMenu comp="-1" id="442" obj="7"/>
+              <NavigationDrawerMenu comp="-1" id="662" obj="5"/>
             </PropertyList>
             <Control _test_id="13" id="13">
               <PropertyList model="CTRL_RICH_CLIENT_LABEL">
