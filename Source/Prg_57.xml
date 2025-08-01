@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="Pedidos" ISN_2="1" LastIsn="4" id="57">
-          <LastModified _date="739463" _time="55753" date="31/07/2025" time="15:29:13"/>
+          <LastModified _date="739464" _time="39646" date="01/08/2025" time="11:00:46"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -489,7 +489,7 @@
               <BorderStyle id="64" val="3"/>
               <_Comment id="218"/>
               <FormName id="311" valUnicode="Pedidos"/>
-              <WindowType id="358" val="6"/>
+              <WindowType id="358" val="2"/>
               <_PulldownMenu comp="-1" id="441" obj="5"/>
               <_ContextMenu comp="-1" id="442" obj="7"/>
               <WallpaperStyle id="448" val="5"/>
@@ -715,7 +715,7 @@
         </EVNT>
         <Task MainProgram="N">
           <Header Description="Pedidos Edit" ISN_2="4" LastIsn="4" id="57">
-            <LastModified _date="739463" _time="55289" date="31/07/2025" time="15:21:29"/>
+            <LastModified _date="739464" _time="39646" date="01/08/2025" time="11:00:46"/>
             <ExecutionRight comp="-1"/>
             <Resident val="N"/>
             <SQL val="N"/>
@@ -903,6 +903,7 @@
                 </LogicLine>
                 <LogicLine>
                   <Select FieldID="2" FlowIsn="4" id="2">
+                    <ASS val="13"/>
                     <Column val="2"/>
                     <Type val="R"/>
                     <ExposedToRoute val="N"/>
@@ -1472,6 +1473,10 @@
             <Expression id="11">
               <ExpSyntax val="'PEDIDO'"/>
               <ExpAttribute val="A"/>
+            </Expression>
+            <Expression id="13">
+              <ExpSyntax val="Date()"/>
+              <ExpAttribute val="D"/>
             </Expression>
           </Expressions>
           <EVNT DESC="Confirma" FORCE_EXIT="N" id="1">

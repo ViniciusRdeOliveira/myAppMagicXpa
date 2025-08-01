@@ -1323,3 +1323,7 @@ PID 5796	31/07/2025 14:47:22
  <541536050282732672> 31/07/2025 15:28:43.923     [Error  ] - MDI frame is not opened  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "<<< Iniciar".
  <541536050282732672> 31/07/2025 15:28:45.344     [Error  ] - MDI frame is not opened  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "<<< Iniciar".
  <541536050282732672> 31/07/2025 15:28:45.553     [Error  ] - MDI frame is not opened  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "<<< Iniciar".
+ <124828032531164960> 01/08/2025 10:57:37.632     [Error  ] - Aborting context 124828032531164960, Program: "Main Program".
+ <378256918248142336> 01/08/2025 10:57:37.638     [Error  ] - Aborting context 378256918248142336, Program: "Main Program".
+ <315370559274214656> 01/08/2025 11:00:03.870     [Error  ] - Aborting context 315370559274214656, Program: "Main Program".
+ <329383323450529664> 01/08/2025 11:01:17.946     [Error  ] - Aborting context 329383323450529664, Program: "Main Program".

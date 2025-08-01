@@ -13,46 +13,22 @@
     <RestData/>
   </WatchListItems>
 
-  <ExpandedItems>
-    <Program PrgIsn="57">
-      <ExpandedItem>
-        <TaskIsn Val="1"/>
-        <Type Val="2"/>
-        <HandlerIsn Val="3"/>
-      </ExpandedItem>
-      <ExpandedItem>
-        <TaskIsn Val="1"/>
-        <Type Val="2"/>
-        <HandlerIsn Val="4"/>
-      </ExpandedItem>
-      <ExpandedItem>
-        <TaskIsn Val="1"/>
-        <Type Val="2"/>
-        <HandlerIsn Val="5"/>
-      </ExpandedItem>
-    </Program>
-  </ExpandedItems>
-
   <VisitedTasks>
+    <VisitedTask>
+      <PrgIsn Val="55"/>
+      <TaskIsn Val="1"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="55"/>
+      <TaskIsn Val="4"/>
+    </VisitedTask>
     <VisitedTask>
       <PrgIsn Val="62"/>
       <TaskIsn Val="1"/>
     </VisitedTask>
     <VisitedTask>
-      <PrgIsn Val="53"/>
-      <TaskIsn Val="1"/>
-    </VisitedTask>
-    <VisitedTask>
-      <PrgIsn Val="52"/>
-      <TaskIsn Val="1"/>
-    </VisitedTask>
-    <VisitedTask>
-      <PrgIsn Val="60"/>
-      <TaskIsn Val="1"/>
-    </VisitedTask>
-    <VisitedTask>
-      <PrgIsn Val="51"/>
-      <TaskIsn Val="1"/>
+      <PrgIsn Val="62"/>
+      <TaskIsn Val="4"/>
     </VisitedTask>
     <VisitedTask>
       <PrgIsn Val="57"/>
