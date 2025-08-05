@@ -13,8 +13,8 @@
   <ProgramsRepository>
     <Programs>
       <Task MainProgram="N">
-        <Header Description="Produtos" ISN_2="2" LastIsn="5" id="58">
-          <LastModified _date="739464" _time="39367" date="01/08/2025" time="10:56:07"/>
+        <Header Description="Produtos" ISN_2="2" LastIsn="5" id="112">
+          <LastModified _date="739467" _time="54353" date="04/08/2025" time="15:05:53"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -424,8 +424,8 @@
           </Expression>
         </Expressions>
         <Task MainProgram="N">
-          <Header Description="Produtos" ISN_2="1" LastIsn="5" id="58">
-            <LastModified _date="739464" _time="39366" date="01/08/2025" time="10:56:06"/>
+          <Header Description="Produtos" ISN_2="1" LastIsn="5" id="112">
+            <LastModified _date="739467" _time="54316" date="04/08/2025" time="15:05:16"/>
             <ExecutionRight comp="-1"/>
             <Resident val="N"/>
             <SQL val="N"/>
@@ -884,7 +884,7 @@
                     <Event>
                       <EventType val="N"/>
                     </Event>
-                    <TaskID comp="-1" obj="69"/>
+                    <TaskID comp="-1" obj="119"/>
                     <Lock val="N"/>
                     <Arguments>
                       <Argument>
@@ -1477,8 +1477,8 @@
             </Event>
           </EVNT>
           <Task MainProgram="N">
-            <Header Description="Produtos Edit" ISN_2="5" LastIsn="5" id="58">
-              <LastModified _date="739464" _time="39367" date="01/08/2025" time="10:56:07"/>
+            <Header Description="Produtos Edit" ISN_2="5" LastIsn="5" id="112">
+              <LastModified _date="739467" _time="54353" date="04/08/2025" time="15:05:53"/>
               <ExecutionRight comp="-1"/>
               <Resident val="N"/>
               <SQL val="N"/>
@@ -1777,6 +1777,7 @@
                 <LogicLines>
                   <LogicLine>
                     <BLOCK EndBlock="32" EndBlockSegment="32" FlowIsn="31" Type="I">
+                      <Disabled val="1"/>
                       <Condition Exp="7"/>
                       <Modifier val="B"/>
                       <Direction val="C"/>
@@ -1788,7 +1789,7 @@
                       <Event>
                         <EventType val="N"/>
                       </Event>
-                      <TaskID comp="-1" obj="89"/>
+                      <TaskID comp="-1"/>
                       <Lock val="N"/>
                       <Arguments>
                         <Argument>
@@ -1803,13 +1804,16 @@
                       <Wait val="Y"/>
                       <SyncData val="N"/>
                       <RetainFocus val="N"/>
+                      <Disabled val="1"/>
                       <Condition val="Y"/>
                       <Modifier val="S"/>
                       <Direction val="C"/>
                     </CallTask>
                   </LogicLine>
                   <LogicLine>
-                    <END_BLK FlowIsn="32"/>
+                    <END_BLK FlowIsn="32">
+                      <Disabled val="1"/>
+                    </END_BLK>
                   </LogicLine>
                 </LogicLines>
               </LogicUnit>
@@ -1859,7 +1863,7 @@
                       <Event>
                         <EventType val="N"/>
                       </Event>
-                      <TaskID comp="-1" obj="73"/>
+                      <TaskID comp="-1" obj="121"/>
                       <Lock val="N"/>
                       <Arguments>
                         <Argument>

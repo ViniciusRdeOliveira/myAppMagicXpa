@@ -9,14 +9,14 @@
 
   <ProjectProperties>
     <ProjectData>
-      <GUID val="{7798D19F-0C7C-4556-9731-691972190F6A}"/>
+      <GUID val="{113EC06C-D4B6-4C4D-9E6B-C37E0D326373}"/>
       <RemoteFlowMonitorRight comp="-1"/>
       <ApplColorDefinitionFile val="%WorkingDir%env\clr_rnt.eng"/>
       <ApplFontDefinitionFile val="%WorkingDir%env\fnt_rnt.eng"/>
       <NulArithmetic val="N"/>
       <WindowSortBy val="R"/>
       <_SystemPulldownMenu comp="-1" obj="1"/>
-      <_SystemContextMenu comp="-1"/>
+      <_SystemContextMenu comp="-1" obj="7"/>
       <ExposeComment val="N"/>
       <ProjectName val="GettingStarted"/>
     </ProjectData>

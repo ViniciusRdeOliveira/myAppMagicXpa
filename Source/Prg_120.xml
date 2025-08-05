@@ -13,7 +13,7 @@
   <ProgramsRepository>
     <Programs>
       <Task MainProgram="N">
-        <Header Description="Dados do Dispositivo" ISN_2="1" LastIsn="5" id="70">
+        <Header Description="Dados do Dispositivo" ISN_2="1" LastIsn="2" id="120">
           <LastModified _date="739463" _time="53310" date="31/07/2025" time="14:48:30"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
@@ -1424,7 +1424,7 @@
           </Event>
         </EVNT>
         <Task MainProgram="N">
-          <Header Description="Display Imagem" ISN_2="2" LastIsn="5" id="70">
+          <Header Description="Display Imagem" ISN_2="2" LastIsn="2" id="120">
             <LastModified _date="739463" _time="39600" date="31/07/2025" time="11:00:00"/>
             <ExecutionRight comp="-1"/>
             <Resident val="N"/>

@@ -1327,3 +1327,148 @@ PID 5796	31/07/2025 14:47:22
  <378256918248142336> 01/08/2025 10:57:37.638     [Error  ] - Aborting context 378256918248142336, Program: "Main Program".
  <315370559274214656> 01/08/2025 11:00:03.870     [Error  ] - Aborting context 315370559274214656, Program: "Main Program".
  <329383323450529664> 01/08/2025 11:01:17.946     [Error  ] - Aborting context 329383323450529664, Program: "Main Program".
+ <103009116168674272> 01/08/2025 11:56:29.859     [Error  ] - Aborting context 103009116168674272, Program: "Main Program".
+ <19188682734897620> 01/08/2025 13:22:49.460     [Error  ] - Aborting context 19188682734897620, Program: "Main Program".
+ <401710108970437440> 01/08/2025 13:22:49.462     [Error  ] - Aborting context 401710108970437440, Program: "Main Program".
+ <173776220666043648> 01/08/2025 13:24:01.670     [Error  ] - Aborting context 173776220666043648, Program: "Main Program".
+ <81148249287180720> 01/08/2025 14:11:34.626     [Error  ] - Aborting context 81148249287180720, Program: "Main Program".
+ <325710241573535424> 04/08/2025 08:16:53.679     [Error  ] - Aborting context 325710241573535424, Program: "Main Program".
+ <215981585404969184> 04/08/2025 08:21:24.518     [Error  ] - Execution Path: Países II;Tela, Program: "Países II.Tela".
+ <215981585404969184> 04/08/2025 08:21:24.519     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Países II.Tela".
+ <215981585404969184> 04/08/2025 08:21:24.520     [Error  ] -  Task Name: Países II, Tag: 3, Parent Tag: 2, Program: "Países II.Tela".
+ <215981585404969184> 04/08/2025 08:21:24.521     [Error  ] -  Task Name: Tela, Tag: 4, Parent Tag: 3, Program: "Países II.Tela".
+ <215981585404969184> 04/08/2025 08:21:24.522     [Error  ] - End Task Tree, Program: "Países II.Tela".
+ <215981585404969184> 04/08/2025 08:21:24.524     [Error  ] - Error: Thread aborted, so error marked.
+ <215981585404969184> 04/08/2025 08:21:24.526     [Error  ] - EndTaskRequest(): Países II;TelaERR-THREAD-ABORTED (-139) : "RunMe" ("GettingStarted")  (msgid "413")
+ <407178630264686848> 04/08/2025 08:21:38.978     [Error  ] - Execution Path: Países II;Tela, Program: "Países II.Tela".
+ <407178630264686848> 04/08/2025 08:21:38.979     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Países II.Tela".
+ <407178630264686848> 04/08/2025 08:21:38.979     [Error  ] -  Task Name: Países II, Tag: 3, Parent Tag: 2, Program: "Países II.Tela".
+ <407178630264686848> 04/08/2025 08:21:38.979     [Error  ] -  Task Name: Tela, Tag: 4, Parent Tag: 3, Program: "Países II.Tela".
+ <407178630264686848> 04/08/2025 08:21:38.980     [Error  ] - End Task Tree, Program: "Países II.Tela".
+ <407178630264686848> 04/08/2025 08:21:38.980     [Error  ] - Error: Thread aborted, so error marked.
+ <407178630264686848> 04/08/2025 08:21:38.981     [Error  ] - EndTaskRequest(): Países II;TelaERR-THREAD-ABORTED (-139) : "RunMe" ("GettingStarted")  (msgid "416")
+ <449176168765617664> 04/08/2025 08:22:40.746     [Error  ] - Aborting context 449176168765617664, Program: "Main Program".
+ <140248598655465744> 04/08/2025 08:31:40.238     [Error  ] - Aborting context 140248598655465744, Program: "Main Program".
+ <511329224309070208> 04/08/2025 08:32:54.841     [Error  ] - Aborting context 511329224309070208, Program: "Main Program".
+ <558228048799816960> 04/08/2025 08:49:26.329     [Error  ] - Execution Path: Países II, Program: "Países II".
+ <558228048799816960> 04/08/2025 08:49:26.330     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Países II".
+ <558228048799816960> 04/08/2025 08:49:26.331     [Error  ] -  Task Name: Países II, Tag: 3, Parent Tag: 2, Program: "Países II".
+ <558228048799816960> 04/08/2025 08:49:26.333     [Error  ] - End Task Tree, Program: "Países II".
+ <558228048799816960> 04/08/2025 08:49:26.335     [Error  ] - Error: Thread aborted, so error marked.
+ <558228048799816960> 04/08/2025 08:49:26.336     [Error  ] - EndTaskRequest(): Países IIERR-THREAD-ABORTED (-139) : "RunMe" ("GettingStarted")  (msgid "1132")
+ <10065873841540044> 04/08/2025 08:49:41.294     [Error  ] - Execution Path: Países II, Program: "Países II".
+ <10065873841540044> 04/08/2025 08:49:41.294     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Países II".
+ <10065873841540044> 04/08/2025 08:49:41.295     [Error  ] -  Task Name: Países II, Tag: 3, Parent Tag: 2, Program: "Países II".
+ <10065873841540044> 04/08/2025 08:49:41.295     [Error  ] - End Task Tree, Program: "Países II".
+ <10065873841540044> 04/08/2025 08:49:41.295     [Error  ] - Error: Thread aborted, so error marked.
+ <10065873841540044> 04/08/2025 08:49:41.296     [Error  ] - EndTaskRequest(): Países IIERR-THREAD-ABORTED (-139) : "RunMe" ("GettingStarted")  (msgid "1135")
+ <13919597212664276> 04/08/2025 10:25:19.818     [Error  ] - Aborting context 13919597212664276, Program: "Main Program".
+ <342917818450226496> 04/08/2025 10:36:46.313     [Error  ] - Error: Thread aborted, so error marked., Program: "Main Program".
+ <342917818450226496> 04/08/2025 10:36:46.313     [Error  ] - EndTaskRequest(): Aborting context 342917818450226496 : "RunMe" ("GettingStarted")  (msgid "1280"), Program: "Main Program".
+ <-1> 04/08/2025 10:37:24.330     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <375435582575428288> 04/08/2025 10:53:31.896     [Error  ] - Execution Path: Países II;Busca Dados, Program: "Países II.Busca Dados".
+ <375435582575428288> 04/08/2025 10:53:31.896     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Países II.Busca Dados".
+ <375435582575428288> 04/08/2025 10:53:31.896     [Error  ] -  Task Name: Países II, Tag: 3, Parent Tag: 2, Program: "Países II.Busca Dados".
+ <375435582575428288> 04/08/2025 10:53:31.896     [Error  ] -  Task Name: Busca Dados, Tag: 4, Parent Tag: 3, Program: "Países II.Busca Dados".
+ <375435582575428288> 04/08/2025 10:53:31.897     [Error  ] - End Task Tree, Program: "Países II.Busca Dados".
+ <375435582575428288> 04/08/2025 10:53:31.899     [Error  ] - Error: Thread aborted, so error marked.
+ <375435582575428288> 04/08/2025 10:53:31.899     [Error  ] - EndTaskRequest(): Países II;Busca DadosERR-THREAD-ABORTED (-139) : "RunMe" ("GettingStarted")  (msgid "1286")
+ <387128303484151616> 04/08/2025 10:53:41.619     [Error  ] - Execution Path: Países II;Busca Dados, Program: "Países II.Busca Dados".
+ <387128303484151616> 04/08/2025 10:53:41.619     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Países II.Busca Dados".
+ <387128303484151616> 04/08/2025 10:53:41.620     [Error  ] -  Task Name: Países II, Tag: 3, Parent Tag: 2, Program: "Países II.Busca Dados".
+ <387128303484151616> 04/08/2025 10:53:41.620     [Error  ] -  Task Name: Busca Dados, Tag: 4, Parent Tag: 3, Program: "Países II.Busca Dados".
+ <387128303484151616> 04/08/2025 10:53:41.620     [Error  ] - End Task Tree, Program: "Países II.Busca Dados".
+ <387128303484151616> 04/08/2025 10:53:41.621     [Error  ] - Error: Thread aborted, so error marked.
+ <387128303484151616> 04/08/2025 10:53:41.621     [Error  ] - EndTaskRequest(): Países II;Busca DadosERR-THREAD-ABORTED (-139) : "RunMe" ("GettingStarted")  (msgid "1289")
+ <120121619518991248> 04/08/2025 10:54:01.689     [Error  ] - Execution Path: Países II;Busca Dados, Program: "Países II.Busca Dados".
+ <120121619518991248> 04/08/2025 10:54:01.690     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Países II.Busca Dados".
+ <120121619518991248> 04/08/2025 10:54:01.690     [Error  ] -  Task Name: Países II, Tag: 3, Parent Tag: 2, Program: "Países II.Busca Dados".
+ <120121619518991248> 04/08/2025 10:54:01.690     [Error  ] -  Task Name: Busca Dados, Tag: 4, Parent Tag: 3, Program: "Países II.Busca Dados".
+ <120121619518991248> 04/08/2025 10:54:01.690     [Error  ] - End Task Tree, Program: "Países II.Busca Dados".
+ <120121619518991248> 04/08/2025 10:54:01.691     [Error  ] - Error: Thread aborted, so error marked.
+ <120121619518991248> 04/08/2025 10:54:01.692     [Error  ] - EndTaskRequest(): Países II;Busca DadosERR-THREAD-ABORTED (-139) : "RunMe" ("GettingStarted")  (msgid "1292")
+ <48463821798100136> 04/08/2025 10:54:38.367     [Error  ] - Execution Path: Países II;Busca Dados, Program: "Países II.Busca Dados".
+ <48463821798100136> 04/08/2025 10:54:38.367     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Países II.Busca Dados".
+ <48463821798100136> 04/08/2025 10:54:38.368     [Error  ] -  Task Name: Países II, Tag: 3, Parent Tag: 2, Program: "Países II.Busca Dados".
+ <48463821798100136> 04/08/2025 10:54:38.368     [Error  ] -  Task Name: Busca Dados, Tag: 4, Parent Tag: 3, Program: "Países II.Busca Dados".
+ <48463821798100136> 04/08/2025 10:54:38.368     [Error  ] - End Task Tree, Program: "Países II.Busca Dados".
+ <48463821798100136> 04/08/2025 10:54:38.369     [Error  ] - Error: Thread aborted, so error marked.
+ <48463821798100136> 04/08/2025 10:54:38.369     [Error  ] - EndTaskRequest(): Países II;Busca DadosERR-THREAD-ABORTED (-139) : "RunMe" ("GettingStarted")  (msgid "1295")
+ <479916973105191232> 04/08/2025 11:00:29.605     [Error  ] - Aborting context 479916973105191232, Program: "Main Program".
+ <262355337285273120> 04/08/2025 11:01:54.404     [Error  ] - Aborting context 262355337285273120, Program: "Main Program".
+ <500201330473455872> 04/08/2025 11:31:05.211     [Error  ] - Aborting context 500201330473455872, Program: "Main Program".
+ <555388143778899072> 04/08/2025 11:33:52.317     [Error  ] - Execution Path: Países II;Busca Dados, Program: "Países II.Busca Dados".
+ <555388143778899072> 04/08/2025 11:33:52.317     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Países II.Busca Dados".
+ <555388143778899072> 04/08/2025 11:33:52.318     [Error  ] -  Task Name: Países II, Tag: 3, Parent Tag: 2, Program: "Países II.Busca Dados".
+ <555388143778899072> 04/08/2025 11:33:52.318     [Error  ] -  Task Name: Busca Dados, Tag: 4, Parent Tag: 3, Program: "Países II.Busca Dados".
+ <555388143778899072> 04/08/2025 11:33:52.318     [Error  ] - End Task Tree, Program: "Países II.Busca Dados".
+ <555388143778899072> 04/08/2025 11:33:52.319     [Error  ] - Error: Thread aborted, so error marked.
+ <555388143778899072> 04/08/2025 11:33:52.319     [Error  ] - EndTaskRequest(): Países II;Busca DadosERR-THREAD-ABORTED (-139) : "Países II" ("GettingStarted")  (msgid "1382")
+ <236424558038047584> 04/08/2025 13:12:21.478     [Error  ] - Invalid program/task selected in call command  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Países II".
+ <78700752964666864> 04/08/2025 13:38:20.809     [Error  ] - Aborting context 78700752964666864, Program: "Main Program".
+ <398424405835053184> 04/08/2025 13:38:20.810     [Error  ] - Aborting context 398424405835053184, Program: "Main Program".
+ <19454876909637864> 04/08/2025 14:18:37.082     [Error  ] - Invalid program/task selected in call command  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Países".
+ <311037432280870976> 04/08/2025 14:20:52.835     [Error  ] - Aborting context 311037432280870976, Program: "Main Program".
+ <115010714008560528> 04/08/2025 14:51:48.519     [Error  ] - Aborting context 115010714008560528, Program: "Main Program".
+ <351478748823641728> 04/08/2025 14:54:21.922     [Error  ] - Aborting context 351478748823641728, Program: "Main Program".
+ <222435727771769280> 04/08/2025 15:09:15.529     [Error  ] - Aborting context 222435727771769280, Program: "Main Program".
+ <259014787938645280> 04/08/2025 15:09:15.531     [Error  ] - Aborting context 259014787938645280, Program: "Main Program".
+ <524003587367487744> 04/08/2025 15:58:48.633     [Error  ] - Aborting context 524003587367487744, Program: "Main Program".
+ <172413687305302016> 04/08/2025 16:07:40.834     [Error  ] - Aborting context 172413687305302016, Program: "Main Program".
+ <342524074940830656> 04/08/2025 18:00:01.601     [Error  ] - Warning: Modify operation cancelled due to the task being in Query mode.  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes.Clientes Edit.Busca Dados".
+ <342524074940830656> 04/08/2025 18:00:01.666     [Error  ] - Warning: Modify operation cancelled due to the task being in Query mode.  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes.Clientes Edit.Busca Dados".
+ <342524074940830656> 04/08/2025 18:00:01.681     [Error  ] - Warning: Modify operation cancelled due to the task being in Query mode.  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes.Clientes Edit.Busca Dados".
+ <342524074940830656> 04/08/2025 18:00:01.690     [Error  ] - Warning: Modify operation cancelled due to the task being in Query mode.  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes.Clientes Edit.Busca Dados".
+ <342524074940830656> 04/08/2025 18:00:01.700     [Error  ] - Warning: Modify operation cancelled due to the task being in Query mode.  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes.Clientes Edit.Busca Dados".
+ <342524074940830656> 04/08/2025 18:00:01.715     [Error  ] - Warning: Modify operation cancelled due to the task being in Query mode.  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes.Clientes Edit.Busca Dados".
+ <342524074940830656> 04/08/2025 18:00:01.729     [Error  ] - Warning: Modify operation cancelled due to the task being in Query mode.  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes.Clientes Edit.Busca Dados".
+ <342524074940830656> 04/08/2025 18:00:01.738     [Error  ] - Warning: Modify operation cancelled due to the task being in Query mode.  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes.Clientes Edit.Busca Dados".
+ <342524074940830656> 04/08/2025 18:00:01.745     [Error  ] - Warning: Modify operation cancelled due to the task being in Query mode.  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes.Clientes Edit.Busca Dados".
+ <342524074940830656> 04/08/2025 18:00:01.751     [Error  ] - Warning: Modify operation cancelled due to the task being in Query mode.  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes.Clientes Edit.Busca Dados".
+ <342524074940830656> 04/08/2025 18:00:01.765     [Error  ] - Warning: Modify operation cancelled due to the task being in Query mode.  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes.Clientes Edit.Busca Dados".
+ <342524074940830656> 04/08/2025 18:00:01.778     [Error  ] - Warning: Modify operation cancelled due to the task being in Query mode.  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes.Clientes Edit.Busca Dados".
+ <342524074940830656> 04/08/2025 18:00:01.785     [Error  ] - Warning: Modify operation cancelled due to the task being in Query mode.  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes.Clientes Edit.Busca Dados".
+ <342524074940830656> 04/08/2025 18:00:01.791     [Error  ] - Warning: Modify operation cancelled due to the task being in Query mode.  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes.Clientes Edit.Busca Dados".
+ <342524074940830656> 04/08/2025 18:00:01.803     [Error  ] - Warning: Modify operation cancelled due to the task being in Query mode.  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes.Clientes Edit.Busca Dados".
+ <342524074940830656> 04/08/2025 18:00:01.816     [Error  ] - Warning: Modify operation cancelled due to the task being in Query mode.  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes.Clientes Edit.Busca Dados".
+ <342524074940830656> 04/08/2025 18:00:14.133     [Error  ] - Aborting context 342524074940830656, Program: "Main Program".
+ <405849707627823488> 05/08/2025 08:21:42.569     [Error  ] - Aborting context 405849707627823488, Program: "Main Program".
+ <439991145005963136> 05/08/2025 09:01:05.070     [Error  ] - Aborting context 439991145005963136, Program: "Main Program".
+ <448419327963574272> 05/08/2025 09:14:10.919     [Error  ] - Aborting context 448419327963574272, Program: "Main Program".
+ <390918690070092864> 05/08/2025 09:22:57.740     [Error  ] - Aborting context 390918690070092864, Program: "Main Program".
+ <348657474038895808> 05/08/2025 09:24:45.621     [Error  ] - Aborting context 348657474038895808, Program: "Main Program".
+ <44704678611002192> 05/08/2025 09:39:31.389     [Error  ] - Aborting context 44704678611002192, Program: "Main Program".
+ <111169385187695792> 05/08/2025 09:46:44.017     [Error  ] - Aborting context 111169385187695792, Program: "Main Program".
+ <249271253851400736> 05/08/2025 09:54:40.959     [Error  ] - Aborting context 249271253851400736, Program: "Main Program".
+ <539757274605643200> 05/08/2025 10:00:08.918     [Error  ] - Aborting context 539757274605643200, Program: "Main Program".
+ <34089471672730592> 05/08/2025 10:06:20.110     [Error  ] - Aborting context 34089471672730592, Program: "Main Program".
+ <165785793528859552> 05/08/2025 10:06:20.112     [Error  ] - Aborting context 165785793528859552, Program: "Main Program".
+ <197898231319642624> 05/08/2025 10:16:58.092     [Error  ] - Aborting context 197898231319642624, Program: "Main Program".
+ <71668938568268920> 05/08/2025 11:03:35.414     [Error  ] - Execution Path: Clientes;Clientes Edit;Edita, Program: "Clientes.Clientes Edit.Edita".
+ <71668938568268920> 05/08/2025 11:03:35.414     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Clientes.Clientes Edit.Edita".
+ <71668938568268920> 05/08/2025 11:03:35.414     [Error  ] -  Task Name: Clientes, Tag: 3, Parent Tag: 2, Program: "Clientes.Clientes Edit.Edita".
+ <71668938568268920> 05/08/2025 11:03:35.415     [Error  ] -  Task Name: Clientes Edit, Tag: 4, Parent Tag: 3, Program: "Clientes.Clientes Edit.Edita".
+ <71668938568268920> 05/08/2025 11:03:35.415     [Error  ] -  Task Name: Edita, Tag: 5, Parent Tag: 4, Program: "Clientes.Clientes Edit.Edita".
+ <71668938568268920> 05/08/2025 11:03:35.415     [Error  ] -  Task Name: Batch - LastId acréscimo, Tag: 6, Parent Tag: 5, Program: "Clientes.Clientes Edit.Edita".
+ <71668938568268920> 05/08/2025 11:03:35.416     [Error  ] - End Task Tree, Program: "Clientes.Clientes Edit.Edita".
+ <71668938568268920> 05/08/2025 11:03:35.417     [Error  ] - Error: Thread aborted, so error marked.
+ <71668938568268920> 05/08/2025 11:03:35.417     [Error  ] - EndTaskRequest(): Clientes;Clientes Edit;EditaERR-THREAD-ABORTED (-139) : "Clientes.Clientes Edit.Edita" ("GettingStarted")  (msgid "356")
+ <488081015876519488> 05/08/2025 11:04:01.372     [Error  ] - Execution Path: Clientes;Clientes Edit;Edita, Program: "Clientes.Clientes Edit.Edita".
+ <488081015876519488> 05/08/2025 11:04:01.373     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Clientes.Clientes Edit.Edita".
+ <488081015876519488> 05/08/2025 11:04:01.374     [Error  ] -  Task Name: Clientes, Tag: 3, Parent Tag: 2, Program: "Clientes.Clientes Edit.Edita".
+ <488081015876519488> 05/08/2025 11:04:01.374     [Error  ] -  Task Name: Clientes Edit, Tag: 4, Parent Tag: 3, Program: "Clientes.Clientes Edit.Edita".
+ <488081015876519488> 05/08/2025 11:04:01.374     [Error  ] -  Task Name: Edita, Tag: 5, Parent Tag: 4, Program: "Clientes.Clientes Edit.Edita".
+ <488081015876519488> 05/08/2025 11:04:01.375     [Error  ] -  Task Name: Batch - LastId acréscimo, Tag: 6, Parent Tag: 5, Program: "Clientes.Clientes Edit.Edita".
+ <488081015876519488> 05/08/2025 11:04:01.375     [Error  ] - End Task Tree, Program: "Clientes.Clientes Edit.Edita".
+ <488081015876519488> 05/08/2025 11:04:01.376     [Error  ] - Error: Thread aborted, so error marked.
+ <488081015876519488> 05/08/2025 11:04:01.376     [Error  ] - EndTaskRequest(): Clientes;Clientes Edit;EditaERR-THREAD-ABORTED (-139) : "Clientes.Clientes Edit.Edita" ("GettingStarted")  (msgid "363")
+ <399335876873452928> 05/08/2025 11:26:31.045     [Error  ] - Execution Path: Clientes;Clientes Edit;Edita, Program: "Clientes.Clientes Edit.Edita".
+ <399335876873452928> 05/08/2025 11:26:31.046     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Clientes.Clientes Edit.Edita".
+ <399335876873452928> 05/08/2025 11:26:31.046     [Error  ] -  Task Name: Clientes, Tag: 3, Parent Tag: 2, Program: "Clientes.Clientes Edit.Edita".
+ <399335876873452928> 05/08/2025 11:26:31.046     [Error  ] -  Task Name: Clientes Edit, Tag: 7, Parent Tag: 3, Program: "Clientes.Clientes Edit.Edita".
+ <399335876873452928> 05/08/2025 11:26:31.047     [Error  ] -  Task Name: Edita, Tag: 8, Parent Tag: 7, Program: "Clientes.Clientes Edit.Edita".
+ <399335876873452928> 05/08/2025 11:26:31.047     [Error  ] -  Task Name: Batch - LastId acréscimo, Tag: 9, Parent Tag: 8, Program: "Clientes.Clientes Edit.Edita".
+ <399335876873452928> 05/08/2025 11:26:31.047     [Error  ] - End Task Tree, Program: "Clientes.Clientes Edit.Edita".
+ <399335876873452928> 05/08/2025 11:26:31.048     [Error  ] - Error: Thread aborted, so error marked.
+ <399335876873452928> 05/08/2025 11:26:31.049     [Error  ] - EndTaskRequest(): Clientes;Clientes Edit;EditaERR-THREAD-ABORTED (-139) : "Clientes.Clientes Edit.Edita" ("GettingStarted")  (msgid "391")
+ <78103094429526352> 05/08/2025 11:34:37.568     [Error  ] - Aborting context 78103094429526352, Program: "Main Program".
