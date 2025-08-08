@@ -1472,3 +1472,230 @@ PID 5796	31/07/2025 14:47:22
  <399335876873452928> 05/08/2025 11:26:31.048     [Error  ] - Error: Thread aborted, so error marked.
  <399335876873452928> 05/08/2025 11:26:31.049     [Error  ] - EndTaskRequest(): Clientes;Clientes Edit;EditaERR-THREAD-ABORTED (-139) : "Clientes.Clientes Edit.Edita" ("GettingStarted")  (msgid "391")
  <78103094429526352> 05/08/2025 11:34:37.568     [Error  ] - Aborting context 78103094429526352, Program: "Main Program".
+ <220945019510708448> 05/08/2025 13:51:35.906     [Error  ] - Aborting context 220945019510708448, Program: "Main Program".
+ <62120663158949488> 05/08/2025 13:59:22.840     [Error  ] - Aborting context 62120663158949488, Program: "Main Program".
+ <490039097672079744> 05/08/2025 14:00:05.789     [Error  ] - Aborting context 490039097672079744, Program: "Main Program".
+ <302347002729177856> 05/08/2025 14:03:59.276     [Error  ] - Aborting context 302347002729177856, Program: "Main Program".
+ <296120904396843264> 05/08/2025 14:04:52.193     [Error  ] - Aborting context 296120904396843264, Program: "Main Program".
+ <226122753804015296> 05/08/2025 14:06:54.736     [Error  ] - Aborting context 226122753804015296, Program: "Main Program".
+ <352121095314520832> 05/08/2025 14:08:37.106     [Error  ] - Aborting context 352121095314520832, Program: "Main Program".
+ <13719076720534108> 05/08/2025 14:10:41.223     [Error  ] - Aborting context 13719076720534108, Program: "Main Program".
+ <120273701594602208> 05/08/2025 14:20:56.918     [Error  ] - Aborting context 120273701594602208, Program: "Main Program".
+ <452972209097137792> 05/08/2025 14:20:56.919     [Error  ] - Aborting context 452972209097137792, Program: "Main Program".
+ <224337093431051776> 05/08/2025 14:26:06.007     [Error  ] - Aborting context 224337093431051776, Program: "Main Program".
+ <164562893610759840> 05/08/2025 14:28:00.572     [Error  ] - Aborting context 164562893610759840, Program: "Main Program".
+ <292369713515212800> 05/08/2025 14:30:30.336     [Error  ] - Aborting context 292369713515212800, Program: "Main Program".
+ <320838998542004672> 05/08/2025 14:30:30.337     [Error  ] - Aborting context 320838998542004672, Program: "Main Program".
+ <531463643541576704> 05/08/2025 14:30:30.338     [Error  ] - Aborting context 531463643541576704, Program: "Main Program".
+ <160069194537976352> 05/08/2025 14:31:25.903     [Error  ] - Aborting context 160069194537976352, Program: "Main Program".
+ <199799545929013664> 05/08/2025 14:37:16.614     [Error  ] - Unable to perform the operation, the record has been changed by another user or process. Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes".
+ <199799545929013664> 05/08/2025 14:38:30.091     [Error  ] - Aborting context 199799545929013664, Program: "Main Program".
+ <225494788096095232> 05/08/2025 14:48:26.085     [Error  ] - Aborting context 225494788096095232, Program: "Main Program".
+ <332035731816370432> 05/08/2025 14:53:34.161     [Error  ] - Aborting context 332035731816370432, Program: "Main Program".
+ <45020163894048072> 05/08/2025 14:58:49.553     [Error  ] - Aborting context 45020163894048072, Program: "Main Program".
+ <522892238526918464> 05/08/2025 15:00:11.773     [Error  ] - Aborting context 522892238526918464, Program: "Main Program".
+ <302421917244943744> 05/08/2025 15:08:41.454     [Error  ] - Aborting context 302421917244943744, Program: "Main Program".
+ <373465743817375872> 05/08/2025 15:26:29.629     [Error  ] - Unable to perform the operation, the record has been changed by another user or process. Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes".
+ <373465743817375872> 05/08/2025 15:26:36.422     [Error  ] - Aborting context 373465743817375872, Program: "Main Program".
+ <159005091533806144> 05/08/2025 15:29:12.328     [Error  ] - Program not found.  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes.Clientes Edit.Edita.Salva".
+ <259284817413196544> 05/08/2025 15:30:47.085     [Error  ] - Program not found.  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes.Clientes Edit.Edita.Salva".
+ <259284817413196544> 05/08/2025 15:30:59.260     [Error  ] - Program not found.  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes.Clientes Edit.Edita.Salva".
+ <12760723054540554> 05/08/2025 15:32:38.156     [Error  ] - Invalid program/task selected in call command  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes.Clientes Edit.Edita".
+ <12760723054540554> 05/08/2025 15:32:49.961     [Error  ] - Aborting context 12760723054540554, Program: "Main Program".
+ <496329232861560896> 05/08/2025 15:33:30.053     [Error  ] - Invalid program/task selected in call command  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes.Clientes Edit.Edita".
+ <496329232861560896> 05/08/2025 15:33:39.021     [Error  ] - Aborting context 496329232861560896, Program: "Main Program".
+ <363338127645828288> 05/08/2025 16:07:36.633     [Error  ] - Aborting context 363338127645828288, Program: "Main Program".
+ <167500105194179328> 05/08/2025 16:17:34.207     [Error  ] - Aborting context 167500105194179328, Program: "Main Program".
+ <312109208935731776> 05/08/2025 16:20:13.391     [Error  ] - Program not found for 'Call By Name' operation: Clientes  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes.Clientes Edit.Edita.Salva".
+ <497670369781852352> 05/08/2025 16:20:54.819     [Error  ] - Program not found.  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes.Clientes Edit.Edita.Salva".
+ <225412675227645280> 05/08/2025 16:32:55.574     [Error  ] - Aborting context 225412675227645280, Program: "Main Program".
+ <425483934828804096> 05/08/2025 16:38:45.796     [Error  ] - Aborting context 425483934828804096, Program: "Main Program".
+ <300476384609779712> 05/08/2025 16:47:03.722     [Error  ] - Aborting context 300476384609779712, Program: "Main Program".
+ <7084990351547335> 05/08/2025 16:51:08.480     [Error  ] - Aborting context 7084990351547335, Program: "Main Program".
+ <234894174967960704> 05/08/2025 16:51:56.184     [Error  ] - Aborting context 234894174967960704, Program: "Main Program".
+ <181038488745602464> 05/08/2025 16:55:36.244     [Error  ] - Aborting context 181038488745602464, Program: "Main Program".
+ <525238652916032768> 05/08/2025 17:22:27.472     [Error  ] - Aborting context 525238652916032768, Program: "Main Program".
+ <558410639516863232> 06/08/2025 08:12:40.502     [Error  ] - Aborting context 558410639516863232, Program: "Main Program".
+ <4501185601714854> 06/08/2025 08:15:02.360     [Error  ] - Aborting context 4501185601714854, Program: "Main Program".
+ <336475239131256128> 07/08/2025 10:22:11.987     [Error  ] - Aborting context 336475239131256128, Program: "Main Program".
+ <519698216421451392> 07/08/2025 10:27:36.366     [Error  ] - Aborting context 519698216421451392, Program: "Main Program".
+ <18532404003164976> 07/08/2025 10:35:03.040     [Error  ] - Aborting context 18532404003164976, Program: "Main Program".
+ <329889786161726848> 07/08/2025 10:39:03.061     [Error  ] - Unable to open the Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes".
+ <329889786161726848> 07/08/2025 10:39:03.061     [Error  ] - Unable to open the Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes".
+ <329889786161726848> 07/08/2025 10:39:03.062     [Error  ] - Unable to open the Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes".
+ <329889786161726848> 07/08/2025 10:39:03.062     [Error  ] - Error: rcRt is NOT OK/_isVerifyError is set., Program: "Main Program".
+ <329889786161726848> 07/08/2025 10:39:03.063     [Error  ] - EndTaskRequest(): Unable to open the Data Source: Customers : Clientes cannot start a transaction within a transactionUnable to open the Data Source: Customers : Clientes cannot start a transaction within a transactionUnable to open the Data Source: Customers : Clientes cannot start a transaction within a transaction : "Clientes" ("GettingStarted")  (msgid "160"), Program: "Main Program".
+ <264894123567579200> 07/08/2025 10:39:27.196     [Error  ] - Aborting context 264894123567579200, Program: "Main Program".
+ <388507128349121600> 07/08/2025 11:12:42.795     [Error  ] - Error occurred in Create: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes".
+ <388507128349121600> 07/08/2025 11:12:42.798     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <388507128349121600> 07/08/2025 11:12:42.799     [Error  ] - EndTaskRequest(): Error occurred in Create: Customers : Clientes database is locked : "RunMe" ("GettingStarted")  (msgid "163"), Program: "Main Program".
+ <386439457262715200> 07/08/2025 11:12:54.883     [Error  ] - Unable to open the Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes".
+ <386439457262715200> 07/08/2025 11:12:54.884     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <386439457262715200> 07/08/2025 11:12:54.885     [Error  ] - EndTaskRequest(): Unable to open the Data Source: Customers : Clientes cannot start a transaction within a transaction : "RunMe" ("GettingStarted")  (msgid "166"), Program: "Main Program".
+ <279840190894256768> 07/08/2025 11:13:01.437     [Error  ] - Unable to open the Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes".
+ <279840190894256768> 07/08/2025 11:13:01.438     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <279840190894256768> 07/08/2025 11:13:01.441     [Error  ] - EndTaskRequest(): Unable to open the Data Source: Customers : Clientes cannot start a transaction within a transaction : "RunMe" ("GettingStarted")  (msgid "169"), Program: "Main Program".
+ <378319479401940480> 07/08/2025 11:13:35.082     [Error  ] - Unable to open the Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes".
+ <378319479401940480> 07/08/2025 11:13:35.083     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <378319479401940480> 07/08/2025 11:13:35.084     [Error  ] - EndTaskRequest(): Unable to open the Data Source: Customers : Clientes cannot start a transaction within a transaction : "RunMe" ("GettingStarted")  (msgid "172"), Program: "Main Program".
+ <276038813855910848> 07/08/2025 11:13:46.071     [Error  ] - Unable to open the Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes".
+ <276038813855910848> 07/08/2025 11:13:46.072     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <276038813855910848> 07/08/2025 11:13:46.073     [Error  ] - EndTaskRequest(): Unable to open the Data Source: Customers : Clientes cannot start a transaction within a transaction : "RunMe" ("GettingStarted")  (msgid "175"), Program: "Main Program".
+ <444010855805600640> 07/08/2025 11:16:55.520     [Error  ] - Aborting context 444010855805600640, Program: "Main Program".
+ <177520955628294144> 07/08/2025 11:19:56.098     [Error  ] - Aborting context 177520955628294144, Program: "Main Program".
+ <54705873956522528> 07/08/2025 11:21:12.752     [Error  ] - Aborting context 54705873956522528, Program: "Main Program".
+ <442353335037231296> 07/08/2025 13:47:37.307     [Error  ] - Invalid program/task selected in call command  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes.Inicialização".
+ <141574139562476320> 07/08/2025 13:47:50.376     [Error  ] - Aborting context 141574139562476320, Program: "Main Program".
+ <442353335037231296> 07/08/2025 13:47:50.379     [Error  ] - Aborting context 442353335037231296, Program: "Main Program".
+ <270428640299179296> 07/08/2025 13:57:01.544     [Error  ] - Invalid program/task selected in call command  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes.Inicialização".
+ <270428640299179296> 07/08/2025 13:57:10.578     [Error  ] - Aborting context 270428640299179296, Program: "Main Program".
+ <417323694812700544> 07/08/2025 13:59:36.159     [Error  ] - Invalid program/task selected in call command  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes.Inicialização".
+ <417323694812700544> 07/08/2025 13:59:44.882     [Error  ] - Aborting context 417323694812700544, Program: "Main Program".
+ <332724191964678784> 07/08/2025 13:59:47.905     [Error  ] - Execution Path: Clientes;Inicialização, Program: "Clientes.Inicialização".
+ <332724191964678784> 07/08/2025 13:59:47.905     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Clientes.Inicialização".
+ <332724191964678784> 07/08/2025 13:59:47.906     [Error  ] -  Task Name: Clientes, Tag: 3, Parent Tag: 2, Program: "Clientes.Inicialização".
+ <332724191964678784> 07/08/2025 13:59:47.906     [Error  ] -  Task Name: Inicialização, Tag: 4, Parent Tag: 3, Program: "Clientes.Inicialização".
+ <332724191964678784> 07/08/2025 13:59:47.906     [Error  ] - End Task Tree, Program: "Clientes.Inicialização".
+ <332724191964678784> 07/08/2025 13:59:47.907     [Error  ] - Error: Thread aborted, so error marked.
+ <332724191964678784> 07/08/2025 13:59:47.907     [Error  ] - EndTaskRequest(): Clientes;InicializaçãoERR-THREAD-ABORTED (-139) : "Clientes" ("GettingStarted")  (msgid "666")
+ <510311543100296192> 07/08/2025 14:01:54.109     [Error  ] - Execution Path: Clientes;Inicialização, Program: "Clientes.Inicialização".
+ <510311543100296192> 07/08/2025 14:01:54.110     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Clientes.Inicialização".
+ <510311543100296192> 07/08/2025 14:01:54.110     [Error  ] -  Task Name: Clientes, Tag: 3, Parent Tag: 2, Program: "Clientes.Inicialização".
+ <510311543100296192> 07/08/2025 14:01:54.111     [Error  ] -  Task Name: Inicialização, Tag: 4, Parent Tag: 3, Program: "Clientes.Inicialização".
+ <510311543100296192> 07/08/2025 14:01:54.111     [Error  ] - End Task Tree, Program: "Clientes.Inicialização".
+ <510311543100296192> 07/08/2025 14:01:54.112     [Error  ] - Error: Thread aborted, so error marked.
+ <510311543100296192> 07/08/2025 14:01:54.113     [Error  ] - EndTaskRequest(): Clientes;InicializaçãoERR-THREAD-ABORTED (-139) : "" ("GettingStarted")  (msgid "672")
+ <269447517496640160> 07/08/2025 14:06:37.944     [Error  ] - Aborting context 269447517496640160, Program: "Main Program".
+ <319309676820406592> 07/08/2025 14:38:04.894     [Error  ] - Aborting context 319309676820406592, Program: "Main Program".
+ <316193095743815744> 07/08/2025 14:39:07.829     [Error  ] - Aborting context 316193095743815744, Program: "Main Program".
+ <305533863192387072> 07/08/2025 14:50:32.427     [Error  ] - Aborting context 305533863192387072, Program: "Main Program".
+ <484606690851118528> 07/08/2025 14:52:00.544     [Error  ] - Aborting context 484606690851118528, Program: "Main Program".
+ <325079318619752768> 07/08/2025 14:58:08.974     [Error  ] - Aborting context 325079318619752768, Program: "Main Program".
+ <-1> 07/08/2025 14:58:45.521     [Error  ] - Server terminated unexpectedly: Error: "The xpa Server could not connect to the Broker" (-150)
+ <515600317936400960> 07/08/2025 15:11:15.201     [Error  ] - Aborting context 515600317936400960, Program: "Main Program".
+ <37608563620125232> 07/08/2025 15:11:35.371     [Error  ] - Aborting context 37608563620125232, Program: "Main Program".
+ <479723809425816128> 07/08/2025 15:16:14.404     [Error  ] - Aborting context 479723809425816128, Program: "Main Program".
+ <27787070537963920> 07/08/2025 15:20:42.326     [Error  ] - Aborting context 27787070537963920, Program: "Main Program".
+ <459541491824088000> 07/08/2025 15:21:40.952     [Error  ] - Aborting context 459541491824088000, Program: "Main Program".
+ <536884803359157760> 07/08/2025 15:24:19.578     [Error  ] - Aborting context 536884803359157760, Program: "Main Program".
+ <131281614107726464> 07/08/2025 15:25:04.109     [Error  ] - Aborting context 131281614107726464, Program: "Main Program".
+ <279613429145822080> 07/08/2025 15:26:46.165     [Error  ] - Aborting context 279613429145822080, Program: "Main Program".
+ <548781577581915776> 07/08/2025 15:27:47.066     [Error  ] - Execution Path: Clientes II;Inicialização, Program: "Clientes II.Inicialização".
+ <548781577581915776> 07/08/2025 15:27:47.067     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Clientes II.Inicialização".
+ <548781577581915776> 07/08/2025 15:27:47.067     [Error  ] -  Task Name: Clientes II, Tag: 3, Parent Tag: 2, Program: "Clientes II.Inicialização".
+ <548781577581915776> 07/08/2025 15:27:47.067     [Error  ] -  Task Name: Inicialização, Tag: 4, Parent Tag: 3, Program: "Clientes II.Inicialização".
+ <548781577581915776> 07/08/2025 15:27:47.067     [Error  ] - End Task Tree, Program: "Clientes II.Inicialização".
+ <548781577581915776> 07/08/2025 15:27:47.068     [Error  ] - Error: Thread aborted, so error marked.
+ <548781577581915776> 07/08/2025 15:27:47.068     [Error  ] - EndTaskRequest(): Clientes II;InicializaçãoERR-THREAD-ABORTED (-139) : "Clientes II" ("GettingStarted")  (msgid "940")
+ <257522668330875008> 07/08/2025 15:28:05.448     [Error  ] - Execution Path: Clientes II;Inicialização, Program: "Clientes II.Inicialização".
+ <257522668330875008> 07/08/2025 15:28:05.449     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Clientes II.Inicialização".
+ <257522668330875008> 07/08/2025 15:28:05.449     [Error  ] -  Task Name: Clientes II, Tag: 3, Parent Tag: 2, Program: "Clientes II.Inicialização".
+ <257522668330875008> 07/08/2025 15:28:05.450     [Error  ] -  Task Name: Inicialização, Tag: 4, Parent Tag: 3, Program: "Clientes II.Inicialização".
+ <257522668330875008> 07/08/2025 15:28:05.450     [Error  ] - End Task Tree, Program: "Clientes II.Inicialização".
+ <257522668330875008> 07/08/2025 15:28:05.451     [Error  ] - Error: Thread aborted, so error marked.
+ <257522668330875008> 07/08/2025 15:28:05.451     [Error  ] - EndTaskRequest(): Clientes II;InicializaçãoERR-THREAD-ABORTED (-139) : "Clientes II" ("GettingStarted")  (msgid "944")
+ <122850702632966976> 07/08/2025 15:31:59.368     [Error  ] - Aborting context 122850702632966976, Program: "Main Program".
+ <552788970833035008> 07/08/2025 15:33:26.301     [Error  ] - Aborting context 552788970833035008, Program: "Main Program".
+ <-1> 07/08/2025 15:40:53.697     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 07/08/2025 15:42:28.793     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <492624880330833344> 07/08/2025 15:48:44.656     [Error  ] - Only Rich Client task/program may call Rich Client task/program  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes II.Inicialização.BuscaDados".
+ <492624880330833344> 07/08/2025 15:48:52.120     [Error  ] - Only Rich Client task/program may call Rich Client task/program  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes II.Inicialização.BuscaDados".
+ <492624880330833344> 07/08/2025 15:48:54.619     [Error  ] - Only Rich Client task/program may call Rich Client task/program  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes II.Inicialização.BuscaDados".
+ <492624880330833344> 07/08/2025 15:48:57.586     [Error  ] - Only Rich Client task/program may call Rich Client task/program  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes II.Inicialização.BuscaDados".
+ <492624880330833344> 07/08/2025 15:52:40.796     [Error  ] - Aborting context 492624880330833344, Program: "Main Program".
+ <193978140495629760> 07/08/2025 15:54:09.633     [Error  ] - Aborting context 193978140495629760, Program: "Main Program".
+ <191855566589551840> 07/08/2025 15:59:04.426     [Error  ] - Aborting context 191855566589551840, Program: "Main Program".
+ <86497350159246400> 07/08/2025 16:03:07.761     [Error  ] - Aborting context 86497350159246400, Program: "Main Program".
+ <469357790742269824> 07/08/2025 16:04:09.947     [Error  ] - Aborting context 469357790742269824, Program: "Main Program".
+ <247371129002479232> 07/08/2025 16:17:14.255     [Error  ] - Only Rich Client task/program may call Rich Client task/program  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes II.Inicialização.BuscaDados".
+ <247371129002479232> 07/08/2025 16:17:21.935     [Error  ] - Only Rich Client task/program may call Rich Client task/program  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes II.Inicialização.BuscaDados".
+ <247371129002479232> 07/08/2025 16:17:23.745     [Error  ] - Only Rich Client task/program may call Rich Client task/program  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes II.Inicialização.BuscaDados".
+ <247371129002479232> 07/08/2025 16:17:24.825     [Error  ] - Only Rich Client task/program may call Rich Client task/program  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes II.Inicialização.BuscaDados".
+ <247371129002479232> 07/08/2025 16:17:27.401     [Error  ] - Aborting context 247371129002479232, Program: "Main Program".
+ <-1> 07/08/2025 16:19:42.873     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <196741690210387968> 07/08/2025 16:20:38.646     [Error  ] - Cannot call Main Program.  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes II.Inicialização.BuscaDados".
+ <196741690210387968> 07/08/2025 16:20:41.943     [Error  ] - Cannot call Main Program.  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes II.Inicialização.BuscaDados".
+ <196741690210387968> 07/08/2025 16:20:48.671     [Error  ] - Aborting context 196741690210387968, Program: "Main Program".
+ <130335569952670080> 07/08/2025 16:21:17.688     [Error  ] - The CallProg() function can call only Batch programs.  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes II.Inicialização.BuscaDados".
+ <130335569952670080> 07/08/2025 16:21:31.287     [Error  ] - The CallProg() function can call only Batch programs.  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes II.Inicialização.BuscaDados".
+ <130335569952670080> 07/08/2025 16:21:32.750     [Error  ] - The CallProg() function can call only Batch programs.  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes II.Inicialização.BuscaDados".
+ <130335569952670080> 07/08/2025 16:21:34.213     [Error  ] - The CallProg() function can call only Batch programs.  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes II.Inicialização.BuscaDados".
+ <130335569952670080> 07/08/2025 16:22:01.571     [Error  ] - Aborting context 130335569952670080, Program: "Main Program".
+ <86093554352578624> 07/08/2025 16:45:00.944     [Error  ] - Aborting context 86093554352578624, Program: "Main Program".
+ <224475038145257056> 07/08/2025 16:45:00.946     [Error  ] - Aborting context 224475038145257056, Program: "Main Program".
+ <262940606149362304> 07/08/2025 16:45:00.948     [Error  ] - Aborting context 262940606149362304, Program: "Main Program".
+ <276968118257813344> 07/08/2025 16:56:43.777     [Error  ] - Execution Path: Clientes II;Edit;Inicialização, Program: "Clientes II.Edit.Inicialização".
+ <276968118257813344> 07/08/2025 16:56:43.778     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Clientes II.Edit.Inicialização".
+ <276968118257813344> 07/08/2025 16:56:43.778     [Error  ] -  Task Name: Clientes II, Tag: 3, Parent Tag: 2, Program: "Clientes II.Edit.Inicialização".
+ <276968118257813344> 07/08/2025 16:56:43.779     [Error  ] -  Task Name: Edit, Tag: 5, Parent Tag: 3, Program: "Clientes II.Edit.Inicialização".
+ <276968118257813344> 07/08/2025 16:56:43.779     [Error  ] -  Task Name: Inicialização, Tag: 6, Parent Tag: 5, Program: "Clientes II.Edit.Inicialização".
+ <276968118257813344> 07/08/2025 16:56:43.779     [Error  ] - End Task Tree, Program: "Clientes II.Edit.Inicialização".
+ <276968118257813344> 07/08/2025 16:56:43.780     [Error  ] - Error: Thread aborted, so error marked.
+ <276968118257813344> 07/08/2025 16:56:43.781     [Error  ] - EndTaskRequest(): Clientes II;Edit;InicializaçãoERR-THREAD-ABORTED (-139) : "" ("GettingStarted")  (msgid "1383")
+ <330405395365253056> 07/08/2025 16:59:45.899     [Error  ] - Aborting context 330405395365253056, Program: "Main Program".
+ <120740230208611616> 07/08/2025 17:10:04.825     [Error  ] - Aborting context 120740230208611616, Program: "Main Program".
+ <428711708693795968> 07/08/2025 17:12:10.974     [Error  ] - Aborting context 428711708693795968, Program: "Main Program".
+ <111289679394081344> 07/08/2025 17:13:59.640     [Error  ] - Aborting context 111289679394081344, Program: "Main Program".
+ <564513167739982912> 07/08/2025 17:45:44.069     [Error  ] - Aborting context 564513167739982912, Program: "Main Program".
+ <429578454537087360> 07/08/2025 17:46:45.893     [Error  ] - Aborting context 429578454537087360, Program: "Main Program".
+ <449313258795245696> 07/08/2025 17:46:45.896     [Error  ] - Aborting context 449313258795245696, Program: "Main Program".
+ <69858515670508056> 07/08/2025 17:47:26.827     [Error  ] - Aborting context 69858515670508056, Program: "Main Program".
+ <198252709418865568> 07/08/2025 17:47:26.829     [Error  ] - Aborting context 198252709418865568, Program: "Main Program".
+ <89985032552338704> 07/08/2025 17:48:54.375     [Error  ] - Aborting context 89985032552338704, Program: "Main Program".
+ <5750682921045605> 08/08/2025 08:40:34.982     [Error  ] - EndTaskRequest(): Error: "Program is not set as External" (-261) : "RunMe" ("GettingStarted")  (msgid "30"), Program: "Main Program".
+ <449009670457800768> 08/08/2025 08:40:44.802     [Error  ] - EndTaskRequest(): Error: "Program is not set as External" (-261) : "RunMe" ("GettingStarted")  (msgid "33"), Program: "Main Program".
+ <324784631545038848> 08/08/2025 09:21:38.609     [Error  ] - Aborting context 324784631545038848, Program: "Main Program".
+ <222425862938915712> 08/08/2025 09:23:28.848     [Error  ] - Aborting context 222425862938915712, Program: "Main Program".
+ <354622039838292160> 08/08/2025 09:30:51.303     [Error  ] - Aborting context 354622039838292160, Program: "Main Program".
+ <239716356213178016> 08/08/2025 09:31:38.998     [Error  ] - Aborting context 239716356213178016, Program: "Main Program".
+ <317907360179194688> 08/08/2025 09:31:39.000     [Error  ] - Aborting context 317907360179194688, Program: "Main Program".
+ <28142541231113512> 08/08/2025 09:47:06.742     [Error  ] - Aborting context 28142541231113512, Program: "Main Program".
+ <252936365606050496> 08/08/2025 09:47:06.743     [Error  ] - Aborting context 252936365606050496, Program: "Main Program".
+ <130061470094919328> 08/08/2025 10:02:14.681     [Error  ] - Aborting context 130061470094919328, Program: "Main Program".
+ <351898047172293632> 08/08/2025 10:02:14.684     [Error  ] - Aborting context 351898047172293632, Program: "Main Program".
+ <517647424420839104> 08/08/2025 10:03:35.367     [Error  ] - Aborting context 517647424420839104, Program: "Main Program".
+ <502806744996178368> 08/08/2025 10:18:46.347     [Error  ] - Aborting context 502806744996178368, Program: "Main Program".
+ <53516171238686320> 08/08/2025 10:21:41.196     [Error  ] - Aborting context 53516171238686320, Program: "Main Program".
+ <265499314132633536> 08/08/2025 10:21:41.199     [Error  ] - Aborting context 265499314132633536, Program: "Main Program".
+ <26939867245599880> 08/08/2025 10:22:52.096     [Error  ] - Aborting context 26939867245599880, Program: "Main Program".
+ <263360115498716448> 08/08/2025 10:34:13.371     [Error  ] - Aborting context 263360115498716448, Program: "Main Program".
+ <504866430486582336> 08/08/2025 10:34:13.372     [Error  ] - Aborting context 504866430486582336, Program: "Main Program".
+ <225828829074179904> 08/08/2025 10:37:53.474     [Error  ] - Aborting context 225828829074179904, Program: "Main Program".
+ <312633693699726720> 08/08/2025 10:37:53.475     [Error  ] - Aborting context 312633693699726720, Program: "Main Program".
+ <518536451912047360> 08/08/2025 11:05:51.254     [Error  ] - Aborting context 518536451912047360, Program: "Main Program".
+ <523645274715608256> 08/08/2025 11:05:51.257     [Error  ] - Aborting context 523645274715608256, Program: "Main Program".
+ <269472216339931904> 08/08/2025 11:06:44.051     [Error  ] - Aborting context 269472216339931904, Program: "Main Program".
+ <316008303078455872> 08/08/2025 11:06:44.052     [Error  ] - Aborting context 316008303078455872, Program: "Main Program".
+ <31769448037822660> 08/08/2025 11:08:01.339     [Error  ] - Aborting context 31769448037822660, Program: "Main Program".
+ <123043696323672976> 08/08/2025 11:17:48.955     [Error  ] - Aborting context 123043696323672976, Program: "Main Program".
+ <180648617187713056> 08/08/2025 11:17:48.957     [Error  ] - Aborting context 180648617187713056, Program: "Main Program".
+ <398540232871921088> 08/08/2025 11:36:29.894     [Error  ] - Aborting context 398540232871921088, Program: "Main Program".
+ <222511297983735296> 08/08/2025 13:13:17.515     [Error  ] - Aborting context 222511297983735296, Program: "Main Program".
+ <520105892994983488> 08/08/2025 13:13:17.520     [Error  ] - Aborting context 520105892994983488, Program: "Main Program".
+ <23770271581078120> 08/08/2025 13:47:24.293     [Error  ] - Aborting context 23770271581078120, Program: "Main Program".
+ <362885182065917952> 08/08/2025 13:51:10.080     [Error  ] - Aborting context 362885182065917952, Program: "Main Program".
+ <456399932183421184> 08/08/2025 13:58:37.682     [Error  ] - Aborting context 456399932183421184, Program: "Main Program".
+ <78177913842603280> 08/08/2025 14:00:48.239     [Error  ] - Aborting context 78177913842603280, Program: "Main Program".
+ <209526712732750304> 08/08/2025 14:00:48.241     [Error  ] - Aborting context 209526712732750304, Program: "Main Program".
+ <346169316234674240> 08/08/2025 14:11:07.480     [Error  ] - Aborting context 346169316234674240, Program: "Main Program".
+ <436937904042642496> 08/08/2025 14:11:07.482     [Error  ] - Aborting context 436937904042642496, Program: "Main Program".
+ <269789113794994880> 08/08/2025 14:11:31.603     [Error  ] - Execution Path: Adderi Clientes;inicializacao;BuscaDados, Program: "Adderi Clientes.inicializacao.BuscaDados".
+ <269789113794994880> 08/08/2025 14:11:31.603     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Adderi Clientes.inicializacao.BuscaDados".
+ <269789113794994880> 08/08/2025 14:11:31.604     [Error  ] -  Task Name: Adderi Clientes, Tag: 3, Parent Tag: 2, Program: "Adderi Clientes.inicializacao.BuscaDados".
+ <269789113794994880> 08/08/2025 14:11:31.604     [Error  ] -  Task Name: inicializacao, Tag: 4, Parent Tag: 3, Program: "Adderi Clientes.inicializacao.BuscaDados".
+ <269789113794994880> 08/08/2025 14:11:31.604     [Error  ] -  Task Name: BuscaDados, Tag: 5, Parent Tag: 4, Program: "Adderi Clientes.inicializacao.BuscaDados".
+ <269789113794994880> 08/08/2025 14:11:31.605     [Error  ] - End Task Tree, Program: "Adderi Clientes.inicializacao.BuscaDados".
+ <269789113794994880> 08/08/2025 14:11:31.606     [Error  ] - Error: Thread aborted, so error marked.
+ <269789113794994880> 08/08/2025 14:11:31.606     [Error  ] - EndTaskRequest(): Adderi Clientes;inicializacao;BuscaDadosERR-THREAD-ABORTED (-139) : "Adderi Clientes.inicializacao" ("GettingStarted")  (msgid "1037")
+ <527967160951002304> 08/08/2025 14:11:56.596     [Error  ] - Aborting context 527967160951002304, Program: "Main Program".
+ <296707194094008256> 08/08/2025 14:16:47.070     [Error  ] - Aborting context 296707194094008256, Program: "Main Program".
+ <361769254847120064> 08/08/2025 14:16:47.071     [Error  ] - Aborting context 361769254847120064, Program: "Main Program".
+ <294776213128202688> 08/08/2025 14:17:47.630     [Error  ] - Aborting context 294776213128202688, Program: "Main Program".
+ <357483623901591232> 08/08/2025 14:19:32.885     [Error  ] - Aborting context 357483623901591232, Program: "Main Program".
+ <516562885587094400> 08/08/2025 14:19:32.887     [Error  ] - Aborting context 516562885587094400, Program: "Main Program".
+ <527798747852525312> 08/08/2025 14:19:32.889     [Error  ] - Aborting context 527798747852525312, Program: "Main Program".
+ <172053061156775808> 08/08/2025 14:21:29.565     [Error  ] - Aborting context 172053061156775808, Program: "Main Program".
+ <331150805268472576> 08/08/2025 14:21:29.567     [Error  ] - Aborting context 331150805268472576, Program: "Main Program".
+ <10548417879245372> 08/08/2025 14:26:24.974     [Error  ] - Aborting context 10548417879245372, Program: "Main Program".
+ <141614004304335264> 08/08/2025 14:26:24.975     [Error  ] - Aborting context 141614004304335264, Program: "Main Program".
+ <571824589006704192> 08/08/2025 14:26:24.977     [Error  ] - Aborting context 571824589006704192, Program: "Main Program".

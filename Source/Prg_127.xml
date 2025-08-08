@@ -13,7 +13,7 @@
   <ProgramsRepository>
     <Programs>
       <Task MainProgram="N">
-        <Header Description="Pedidos" ISN_2="1" LastIsn="4" id="110">
+        <Header Description="Pedidos" ISN_2="1" LastIsn="4" id="127">
           <LastModified _date="739467" _time="54281" date="04/08/2025" time="15:04:41"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
@@ -714,7 +714,7 @@
           </Event>
         </EVNT>
         <Task MainProgram="N">
-          <Header Description="Pedidos Edit" ISN_2="4" LastIsn="4" id="110">
+          <Header Description="Pedidos Edit" ISN_2="4" LastIsn="4" id="127">
             <LastModified _date="739467" _time="54281" date="04/08/2025" time="15:04:41"/>
             <ExecutionRight comp="-1"/>
             <Resident val="N"/>
