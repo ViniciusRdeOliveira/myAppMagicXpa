@@ -1699,3 +1699,175 @@ PID 5796	31/07/2025 14:47:22
  <10548417879245372> 08/08/2025 14:26:24.974     [Error  ] - Aborting context 10548417879245372, Program: "Main Program".
  <141614004304335264> 08/08/2025 14:26:24.975     [Error  ] - Aborting context 141614004304335264, Program: "Main Program".
  <571824589006704192> 08/08/2025 14:26:24.977     [Error  ] - Aborting context 571824589006704192, Program: "Main Program".
+ <246567181953942112> 08/08/2025 14:33:31.980     [Error  ] - Aborting context 246567181953942112, Program: "Main Program".
+ <390663949482615424> 08/08/2025 14:33:31.982     [Error  ] - Aborting context 390663949482615424, Program: "Main Program".
+ <544486125072403200> 08/08/2025 14:36:01.430     [Error  ] - Aborting context 544486125072403200, Program: "Main Program".
+ <56005730124060216> 08/08/2025 14:37:09.598     [Error  ] - Aborting context 56005730124060216, Program: "Main Program".
+ <69656081676261536> 08/08/2025 14:46:16.570     [Error  ] - Aborting context 69656081676261536, Program: "Main Program".
+ <238279371307319328> 08/08/2025 14:46:16.571     [Error  ] - Aborting context 238279371307319328, Program: "Main Program".
+ <297738565248730368> 08/08/2025 14:52:52.066     [Error  ] - Aborting context 297738565248730368, Program: "Main Program".
+ <224679470180761376> 08/08/2025 14:53:36.425     [Error  ] - Aborting context 224679470180761376, Program: "Main Program".
+ <111572044249861728> 08/08/2025 14:54:53.328     [Error  ] - Aborting context 111572044249861728, Program: "Main Program".
+ <268578353084018848> 08/08/2025 14:56:51.816     [Error  ] - Aborting context 268578353084018848, Program: "Main Program".
+ <200450599378238528> 08/08/2025 15:00:52.032     [Error  ] - Aborting context 200450599378238528, Program: "Main Program".
+ <-1> 08/08/2025 15:12:20.868     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 08/08/2025 15:12:37.117     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 08/08/2025 15:25:41.798     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 08/08/2025 15:36:00.823     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <117169545183815216> 08/08/2025 16:35:23.760     [Error  ] - Aborting context 117169545183815216, Program: "Main Program".
+ <370246902675894912> 08/08/2025 16:46:41.970     [Error  ] - Aborting context 370246902675894912, Program: "Main Program".
+ <294635497310302720> 08/08/2025 16:49:16.706     [Error  ] - Aborting context 294635497310302720, Program: "Main Program".
+ <366477070736837952> 08/08/2025 16:54:17.383     [Error  ] - Aborting context 366477070736837952, Program: "Main Program".
+ <257879877217472128> 11/08/2025 08:35:02.050     [Error  ] - Aborting context 257879877217472128, Program: "Main Program".
+ <225928120199939840> 11/08/2025 08:50:31.697     [Error  ] - Aborting context 225928120199939840, Program: "Main Program".
+ <279025128082256064> 11/08/2025 08:53:22.819     [Error  ] - Aborting context 279025128082256064, Program: "Main Program".
+ <69818553017939904> 11/08/2025 08:56:26.506     [Error  ] - Aborting context 69818553017939904, Program: "Main Program".
+ <91664556968641584> 11/08/2025 08:56:26.507     [Error  ] - Aborting context 91664556968641584, Program: "Main Program".
+ <390675871669057280> 11/08/2025 08:57:46.117     [Error  ] - Aborting context 390675871669057280, Program: "Main Program".
+ <78400909845217344> 11/08/2025 08:59:59.756     [Error  ] - Aborting context 78400909845217344, Program: "Main Program".
+ <276483214054056672> 11/08/2025 08:59:59.757     [Error  ] - Aborting context 276483214054056672, Program: "Main Program".
+ <435234183567145472> 11/08/2025 08:59:59.759     [Error  ] - Aborting context 435234183567145472, Program: "Main Program".
+ <518164031273736256> 11/08/2025 08:59:59.760     [Error  ] - Aborting context 518164031273736256, Program: "Main Program".
+ <362257391025906368> 11/08/2025 08:59:59.761     [Error  ] - Aborting context 362257391025906368, Program: "Main Program".
+ <66460057995429680> 11/08/2025 09:10:25.076     [Error  ] - Aborting context 66460057995429680, Program: "Main Program".
+ <186936200466271680> 11/08/2025 09:10:25.078     [Error  ] - Aborting context 186936200466271680, Program: "Main Program".
+ <241067084251446080> 11/08/2025 09:10:25.080     [Error  ] - Aborting context 241067084251446080, Program: "Main Program".
+ <267325488523333088> 11/08/2025 09:10:25.081     [Error  ] - Aborting context 267325488523333088, Program: "Main Program".
+ <153129932973389184> 11/08/2025 09:27:40.084     [Error  ] - Aborting context 153129932973389184, Program: "Main Program".
+ <416458342321480832> 11/08/2025 09:28:24.157     [Error  ] - Aborting context 416458342321480832, Program: "Main Program".
+ <494524987061100992> 11/08/2025 09:28:24.159     [Error  ] - Aborting context 494524987061100992, Program: "Main Program".
+ <553246038244337728> 11/08/2025 09:32:25.622     [Error  ] - Aborting context 553246038244337728, Program: "Main Program".
+ <334527381987249664> 11/08/2025 09:34:04.849     [Error  ] - Aborting context 334527381987249664, Program: "Main Program".
+ <69024837525908888> 11/08/2025 09:41:11.190     [Error  ] - Aborting context 69024837525908888, Program: "Main Program".
+ <108776231139904912> 11/08/2025 09:41:11.192     [Error  ] - Aborting context 108776231139904912, Program: "Main Program".
+ <226036180012734272> 11/08/2025 09:41:11.194     [Error  ] - Aborting context 226036180012734272, Program: "Main Program".
+ <281106990935606144> 11/08/2025 09:41:11.195     [Error  ] - Aborting context 281106990935606144, Program: "Main Program".
+ <519332379670169472> 11/08/2025 09:41:11.197     [Error  ] - Aborting context 519332379670169472, Program: "Main Program".
+ <361550873907447360> 11/08/2025 09:41:11.198     [Error  ] - Aborting context 361550873907447360, Program: "Main Program".
+ <72134878648256208> 11/08/2025 09:46:20.606     [Error  ] - Aborting context 72134878648256208, Program: "Main Program".
+ <226931673142352544> 11/08/2025 09:48:20.233     [Error  ] - Aborting context 226931673142352544, Program: "Main Program".
+ <272868927702870144> 11/08/2025 09:48:20.234     [Error  ] - Aborting context 272868927702870144, Program: "Main Program".
+ <444283206108530816> 11/08/2025 09:59:58.695     [Error  ] - Aborting context 444283206108530816, Program: "Main Program".
+ <168045569183484352> 11/08/2025 10:11:19.550     [Error  ] - Aborting context 168045569183484352, Program: "Main Program".
+ <291436395748893504> 11/08/2025 10:13:44.163     [Error  ] - Aborting context 291436395748893504, Program: "Main Program".
+ <189191572338310784> 11/08/2025 10:14:43.501     [Error  ] - Aborting context 189191572338310784, Program: "Main Program".
+ <128365367912506128> 11/08/2025 10:16:15.691     [Error  ] - Invalid program/task selected in call command  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Adderi Clientes.inicializacao.Cliente Edit".
+ <128365367912506128> 11/08/2025 10:16:21.591     [Error  ] - Aborting context 128365367912506128, Program: "Main Program".
+ <18578023535660084> 11/08/2025 10:17:52.225     [Error  ] - Aborting context 18578023535660084, Program: "Main Program".
+ <137588064762831120> 11/08/2025 10:19:29.970     [Error  ] - Aborting context 137588064762831120, Program: "Main Program".
+ <139415470566558144> 11/08/2025 10:20:42.675     [Error  ] - Aborting context 139415470566558144, Program: "Main Program".
+ <433989173920117504> 11/08/2025 10:22:06.085     [Error  ] - Aborting context 433989173920117504, Program: "Main Program".
+ <2192863298077693> 11/08/2025 10:22:53.330     [Error  ] - Aborting context 2192863298077693, Program: "Main Program".
+ <92473038484116496> 11/08/2025 10:26:10.437     [Error  ] - Aborting context 92473038484116496, Program: "Main Program".
+ <294320863534828288> 11/08/2025 10:32:06.379     [Error  ] - Aborting context 294320863534828288, Program: "Main Program".
+ <427984474458340672> 11/08/2025 10:32:06.381     [Error  ] - Aborting context 427984474458340672, Program: "Main Program".
+ <-1> 11/08/2025 10:36:28.733     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <56980445072113552> 11/08/2025 10:42:51.845     [Error  ] - Aborting context 56980445072113552, Program: "Main Program".
+ <275764774290665536> 11/08/2025 10:42:51.850     [Error  ] - Aborting context 275764774290665536, Program: "Main Program".
+ <118690276982129920> 11/08/2025 10:45:00.680     [Error  ] - Aborting context 118690276982129920, Program: "Main Program".
+ <-1> 11/08/2025 10:50:38.201     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <475414957988846144> 11/08/2025 10:52:12.207     [Error  ] - Aborting context 475414957988846144, Program: "Main Program".
+ <-1> 11/08/2025 11:05:58.182     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <140454432399728800> 11/08/2025 11:10:13.985     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Adderi Clientes".
+ <140454432399728800> 11/08/2025 11:10:13.986     [Error  ] - Error: Thread aborted, so error marked., Program: "Main Program".
+ <140454432399728800> 11/08/2025 11:10:13.987     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Main Program".
+ <140454432399728800> 11/08/2025 11:10:13.987     [Error  ] - EndTaskRequest(): Duplicate Index, Data Source: Customers : Adderi Clientes Aborting context 140454432399728800 : "Adderi Clientes.inicializacao.Cliente Edit" ("GettingStarted")  (msgid "558"), Program: "Main Program".
+ <-1> 11/08/2025 11:10:53.138     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <133543552442520256> 11/08/2025 11:13:03.711     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Adderi Clientes".
+ <133543552442520256> 11/08/2025 11:13:03.712     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Adderi Clientes".
+ <133543552442520256> 11/08/2025 11:13:03.713     [Error  ] - Error: Thread aborted, so error marked., Program: "Main Program".
+ <133543552442520256> 11/08/2025 11:13:03.713     [Error  ] - EndTaskRequest(): Duplicate Index, Data Source: Customers : Adderi Clientes Duplicate Index, Data Source: Customers : Adderi Clientes Aborting context 133543552442520256 : "" ("GettingStarted")  (msgid "568"), Program: "Main Program".
+ <-1> 11/08/2025 11:13:54.418     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 11/08/2025 11:14:37.724     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <389007562427942784> 11/08/2025 11:15:34.719     [Error  ] - Aborting context 389007562427942784, Program: "Main Program".
+ <70801262889124704> 11/08/2025 11:16:35.351     [Error  ] - Aborting context 70801262889124704, Program: "Main Program".
+ <367162729035000000> 11/08/2025 11:17:24.712     [Error  ] - Aborting context 367162729035000000, Program: "Main Program".
+ <340115127557090624> 11/08/2025 11:19:05.776     [Error  ] - Aborting context 340115127557090624, Program: "Main Program".
+ <521541355182517824> 11/08/2025 11:21:52.657     [Error  ] - Aborting context 521541355182517824, Program: "Main Program".
+ <52748467402529712> 11/08/2025 11:23:07.707     [Error  ] - Aborting context 52748467402529712, Program: "Main Program".
+ <104429681836562256> 11/08/2025 11:32:09.312     [Error  ] - Aborting context 104429681836562256, Program: "Main Program".
+ <171549775278106368> 11/08/2025 11:32:09.314     [Error  ] - Aborting context 171549775278106368, Program: "Main Program".
+ <297642833073660800> 11/08/2025 11:32:09.316     [Error  ] - Aborting context 297642833073660800, Program: "Main Program".
+ <347215848676572288> 11/08/2025 11:33:08.476     [Error  ] - Aborting context 347215848676572288, Program: "Main Program".
+ <114751397997996288> 11/08/2025 11:37:57.953     [Error  ] - Aborting context 114751397997996288, Program: "Main Program".
+ <499959062023401408> 11/08/2025 11:38:47.555     [Error  ] - Aborting context 499959062023401408, Program: "Main Program".
+ <5442664931116664> 11/08/2025 11:51:48.579     [Error  ] - Aborting context 5442664931116664, Program: "Main Program".
+ <431362661520546496> 11/08/2025 13:29:15.286     [Error  ] - Aborting context 431362661520546496, Program: "Main Program".
+ <59254375619833848> 11/08/2025 13:32:46.276     [Error  ] - Aborting context 59254375619833848, Program: "Main Program".
+ <462891498090552448> 11/08/2025 13:36:30.280     [Error  ] - Aborting context 462891498090552448, Program: "Main Program".
+ <459793543004304640> 11/08/2025 13:41:21.678     [Error  ] - Aborting context 459793543004304640, Program: "Main Program".
+ <220006990166046080> 11/08/2025 13:42:15.041     [Error  ] - Aborting context 220006990166046080, Program: "Main Program".
+ <232119126436884288> 11/08/2025 13:48:25.729     [Error  ] - Aborting context 232119126436884288, Program: "Main Program".
+ <530725821297977024> 11/08/2025 13:49:24.154     [Error  ] - Aborting context 530725821297977024, Program: "Main Program".
+ <102084857652076432> 11/08/2025 13:54:38.405     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Adderi Clientes".
+ <102084857652076432> 11/08/2025 13:54:58.669     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Adderi Clientes".
+ <102084857652076432> 11/08/2025 13:55:32.817     [Error  ] - Aborting context 102084857652076432, Program: "Main Program".
+ <125345445435033856> 11/08/2025 13:56:25.753     [Error  ] - Aborting context 125345445435033856, Program: "Main Program".
+ <474421293007122496> 11/08/2025 14:02:38.967     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Adderi Clientes".
+ <474421293007122496> 11/08/2025 14:03:01.041     [Error  ] - Aborting context 474421293007122496, Program: "Main Program".
+ <476146780958658048> 11/08/2025 14:22:57.036     [Error  ] - Aborting context 476146780958658048, Program: "Main Program".
+ <473334963728267456> 11/08/2025 14:24:36.678     [Error  ] - Aborting context 473334963728267456, Program: "Main Program".
+ <85454085152832880> 11/08/2025 14:27:35.863     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Adderi Clientes".
+ <85454085152832880> 11/08/2025 14:27:47.666     [Error  ] - Aborting context 85454085152832880, Program: "Main Program".
+ <218464860178461248> 11/08/2025 14:41:02.265     [Error  ] - Aborting context 218464860178461248, Program: "Main Program".
+ <524566717137109504> 11/08/2025 14:41:02.273     [Error  ] - Aborting context 524566717137109504, Program: "Main Program".
+ <142372475210222816> 11/08/2025 15:03:57.842     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Adderi Clientes".
+ <142372475210222816> 11/08/2025 15:04:04.536     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Adderi Clientes".
+ <142372475210222816> 11/08/2025 15:04:22.711     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Adderi Clientes".
+ <142372475210222816> 11/08/2025 15:04:27.624     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Adderi Clientes".
+ <142372475210222816> 11/08/2025 15:04:29.605     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Adderi Clientes".
+ <142372475210222816> 11/08/2025 15:04:58.729     [Error  ] - Aborting context 142372475210222816, Program: "Main Program".
+ <473428001004042624> 11/08/2025 15:06:37.589     [Error  ] - Aborting context 473428001004042624, Program: "Main Program".
+ <-1> 11/08/2025 15:16:28.384     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 11/08/2025 15:17:09.114     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 11/08/2025 15:27:26.499     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 11/08/2025 15:30:28.118     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 11/08/2025 15:32:54.062     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 11/08/2025 15:48:26.629     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 11/08/2025 16:01:03.744     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 11/08/2025 16:09:23.200     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 11/08/2025 16:12:25.192     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 11/08/2025 16:37:51.126     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <523908535814113088> 11/08/2025 16:39:25.716     [Error  ] - Aborting context 523908535814113088, Program: "Main Program".
+ <153553707720097792> 11/08/2025 16:40:08.032     [Error  ] - Aborting context 153553707720097792, Program: "Main Program".
+ <377312411314768192> 11/08/2025 16:40:59.410     [Error  ] - Aborting context 377312411314768192, Program: "Main Program".
+ <441669314333525760> 11/08/2025 16:42:12.011     [Error  ] - Aborting context 441669314333525760, Program: "Main Program".
+ <367659938669812160> 11/08/2025 16:50:42.549     [Error  ] - Aborting context 367659938669812160, Program: "Main Program".
+ <433957969813410304> 11/08/2025 16:58:09.835     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes".
+ <433957969813410304> 11/08/2025 16:58:13.562     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes".
+ <433957969813410304> 11/08/2025 16:58:20.719     [Error  ] - Aborting context 433957969813410304, Program: "Main Program".
+ <561552575879065344> 11/08/2025 16:59:13.374     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes".
+ <561552575879065344> 11/08/2025 16:59:21.349     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Clientes".
+ <561552575879065344> 11/08/2025 16:59:29.280     [Error  ] - Aborting context 561552575879065344, Program: "Main Program".
+ <184699529139103584> 11/08/2025 17:13:40.969     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Adderi Clientes".
+ <184699529139103584> 11/08/2025 17:14:26.103     [Error  ] - Aborting context 184699529139103584, Program: "Main Program".
+ <403059755250377280> 11/08/2025 17:21:27.900     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Adderi Clientes".
+ <403059755250377280> 11/08/2025 17:21:33.455     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Adderi Clientes".
+ <118930124456866368> 11/08/2025 17:21:43.818     [Error  ] - Aborting context 118930124456866368, Program: "Main Program".
+ <403059755250377280> 11/08/2025 17:21:43.822     [Error  ] - Aborting context 403059755250377280, Program: "Main Program".
+ <50945332136430152> 11/08/2025 17:26:56.576     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Adderi Clientes".
+ <50945332136430152> 11/08/2025 17:27:05.238     [Error  ] - Aborting context 50945332136430152, Program: "Main Program".
+ <1713819636953649> 11/08/2025 17:28:52.563     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Adderi Clientes".
+ <1713819636953649> 11/08/2025 17:29:02.888     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Adderi Clientes".
+ <1713819636953649> 11/08/2025 17:30:47.212     [Error  ] - Aborting context 1713819636953649, Program: "Main Program".
+ <407792739719896704> 11/08/2025 17:33:34.168     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Adderi Clientes".
+ <407792739719896704> 11/08/2025 17:34:00.826     [Error  ] - Aborting context 407792739719896704, Program: "Main Program".
+ <33857141599498796> 11/08/2025 17:37:50.665     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Adderi Clientes".
+ <33857141599498796> 11/08/2025 17:37:57.608     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Adderi Clientes".
+ <33857141599498796> 11/08/2025 17:38:09.056     [Error  ] - Aborting context 33857141599498796, Program: "Main Program".
+ <264117539981773440> 11/08/2025 17:56:28.222     [Error  ] - Aborting context 264117539981773440, Program: "Main Program".
+ <515518137231014336> 11/08/2025 17:56:28.225     [Error  ] - Aborting context 515518137231014336, Program: "Main Program".
+ <138022822039987392> 11/08/2025 17:58:54.058     [Error  ] - Aborting context 138022822039987392, Program: "Main Program".
+ <423828138771902720> 11/08/2025 18:00:08.111     [Error  ] - Aborting context 423828138771902720, Program: "Main Program".
+ <281272743191411168> 11/08/2025 18:03:28.795     [Error  ] - Aborting context 281272743191411168, Program: "Main Program".
+ <465147545911473664> 11/08/2025 18:05:37.927     [Error  ] - Aborting context 465147545911473664, Program: "Main Program".
+ <224566380104304928> 12/08/2025 08:18:21.154     [Error  ] - Aborting context 224566380104304928, Program: "Main Program".
+ <261519185382607040> 12/08/2025 08:26:27.343     [Error  ] - Duplicate Index, Data Source: Customers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Adderi Clientes".
+ <261519185382607040> 12/08/2025 08:26:34.999     [Error  ] - Aborting context 261519185382607040, Program: "Main Program".
+ <157505093580268928> 12/08/2025 08:35:37.713     [Error  ] - Aborting context 157505093580268928, Program: "Main Program".
+ <140597814396007680> 12/08/2025 08:36:50.291     [Error  ] - Aborting context 140597814396007680, Program: "Main Program".
+ <142328395823517328> 12/08/2025 08:36:50.292     [Error  ] - Aborting context 142328395823517328, Program: "Main Program".
+ <519206100689583936> 12/08/2025 08:38:02.807     [Error  ] - Aborting context 519206100689583936, Program: "Main Program".
+ <408213977350639296> 12/08/2025 08:45:28.358     [Error  ] - Aborting context 408213977350639296, Program: "Main Program".
+ <91328754019517584> 12/08/2025 08:46:59.069     [Error  ] - Aborting context 91328754019517584, Program: "Main Program".
+ <166646634544215744> 12/08/2025 08:46:59.070     [Error  ] - Aborting context 166646634544215744, Program: "Main Program".

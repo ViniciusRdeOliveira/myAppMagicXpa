@@ -13,8 +13,8 @@
   <ProgramsRepository>
     <Programs>
       <Task MainProgram="N">
-        <Header Description="Batch - LastId decréscimo" ISN_2="1" LastIsn="1" id="123">
-          <LastModified _date="739464" _time="49577" date="01/08/2025" time="13:46:17"/>
+        <Header Description="Batch - LastId Excluir" ISN_2="1" LastIsn="1" id="123">
+          <LastModified _date="739474" _time="53764" date="11/08/2025" time="14:56:04"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -245,7 +245,7 @@
           <FormEntry id="2">
             <PropertyList model="FORM_GUI0">
               <_Comment id="218"/>
-              <FormName id="311" valUnicode="Batch - LastId decréscimo"/>
+              <FormName id="311" valUnicode="Batch - LastId Excluir"/>
             </PropertyList>
           </FormEntry>
         </TaskForms>
