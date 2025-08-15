@@ -10,8 +10,6 @@
 
 ## 📌 Sobre o Projeto
 
-Devido ao tamanho do arquivo.dat que contem o banco de dados, o mesmo foi movido para download no Google Drive. Link está dentro da pasta **data**.
-
 Este projeto foi desenvolvido utilizando **Magic XPA**, com base no treinamento realizado na empresa **Adderi**, localizada em São Leopoldo/RS.
 
 O objetivo do sistema é criar um ambiente funcional para:
