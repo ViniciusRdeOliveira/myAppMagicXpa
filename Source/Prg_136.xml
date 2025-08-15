@@ -14,7 +14,8 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="&lt;&lt;&lt; Iniciar" ISN_2="1" LastIsn="1" id="136">
-          <LastModified _date="739464" _time="51372" date="01/08/2025" time="14:16:12"/>
+          <LastModified _date="739478" _time="29931" date="15/08/2025" time="08:18:51"/>
+          <Public val="RunMe"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -25,7 +26,7 @@
           <SqlWhereExist val="N"/>
           <TaskType val="C"/>
           <Interactive val="Y"/>
-          <External val="N"/>
+          <External val="Y"/>
           <Offline val="N"/>
           <FormType val="N"/>
           <DotNetObjectExists val="N"/>
@@ -151,10 +152,10 @@
               <_Comment id="218"/>
               <FormName id="311" valUnicode="&lt;&lt;&lt; Iniciar"/>
               <WindowType id="358" val="2"/>
-              <_PulldownMenu comp="-1" id="441" obj="5"/>
+              <_PulldownMenu comp="-1" id="441" obj="8"/>
               <_ContextMenu comp="-1" id="442" obj="7"/>
               <WallpaperStyle id="448" val="4"/>
-              <NavigationDrawerMenu comp="-1" id="662" obj="5"/>
+              <NavigationDrawerMenu comp="-1" id="662" obj="8"/>
               <ActionBarMenu comp="-1" id="683" obj="6"/>
             </PropertyList>
             <Control _test_id="1" id="1">

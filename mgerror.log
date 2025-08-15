@@ -1871,3 +1871,181 @@ PID 5796	31/07/2025 14:47:22
  <408213977350639296> 12/08/2025 08:45:28.358     [Error  ] - Aborting context 408213977350639296, Program: "Main Program".
  <91328754019517584> 12/08/2025 08:46:59.069     [Error  ] - Aborting context 91328754019517584, Program: "Main Program".
  <166646634544215744> 12/08/2025 08:46:59.070     [Error  ] - Aborting context 166646634544215744, Program: "Main Program".
+ <197814573724836640> 12/08/2025 09:18:06.431     [Error  ] - Aborting context 197814573724836640, Program: "Main Program".
+ <104190014767754880> 12/08/2025 10:07:29.341     [Error  ] - Aborting context 104190014767754880, Program: "Main Program".
+ <373905613184155904> 12/08/2025 11:25:15.171     [Error  ] - Invalid program/task selected in call command  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Adderi Fornecedores".
+ <373905613184155904> 12/08/2025 11:25:23.629     [Error  ] - Aborting context 373905613184155904, Program: "Main Program".
+ <485108931125114048> 12/08/2025 11:25:23.636     [Error  ] - Aborting context 485108931125114048, Program: "Main Program".
+ <143878566964724048> 12/08/2025 14:23:46.011     [Error  ] - Aborting context 143878566964724048, Program: "Main Program".
+ <229580037480977536> 12/08/2025 14:23:46.016     [Error  ] - Aborting context 229580037480977536, Program: "Main Program".
+ <156323802877651328> 12/08/2025 14:36:35.964     [Error  ] - Aborting context 156323802877651328, Program: "Main Program".
+ <123955836954674512> 12/08/2025 14:37:49.478     [Error  ] - Aborting context 123955836954674512, Program: "Main Program".
+ <136082780621468432> 12/08/2025 14:37:49.480     [Error  ] - Aborting context 136082780621468432, Program: "Main Program".
+ <251815795790958880> 12/08/2025 14:37:49.481     [Error  ] - Aborting context 251815795790958880, Program: "Main Program".
+ <446421214709814144> 12/08/2025 14:39:13.483     [Error  ] - Aborting context 446421214709814144, Program: "Main Program".
+ <114013079259755552> 12/08/2025 15:18:04.500     [Error  ] - Aborting context 114013079259755552, Program: "Main Program".
+ <259277920659030432> 12/08/2025 15:38:01.007     [Error  ] - Duplicate Index, Data Source: Suppliers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Adderi Fornecedores.Inicialização.Fornecedores Edit.Salvar".
+ <259277920659030432> 12/08/2025 15:38:48.973     [Error  ] - Aborting context 259277920659030432, Program: "Main Program".
+ <59393490743574320> 12/08/2025 16:13:28.627     [Error  ] - Duplicate Index, Data Source: Suppliers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Adderi Fornecedores.Inicialização.Fornecedores Edit.Salvar".
+ <59393490743574320> 12/08/2025 16:15:03.182     [Error  ] - Aborting context 59393490743574320, Program: "Main Program".
+ <359498305535613824> 12/08/2025 16:15:24.604     [Error  ] - Duplicate Index, Data Source: Suppliers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Adderi Fornecedores.Inicialização.Fornecedores Edit.Salvar".
+ <359498305535613824> 12/08/2025 16:20:01.613     [Error  ] - Aborting context 359498305535613824, Program: "Main Program".
+ <535857808118257792> 12/08/2025 16:49:38.955     [Error  ] - Aborting context 535857808118257792, Program: "Main Program".
+ <44662416666235328> 13/08/2025 09:26:36.744     [Error  ] - Aborting context 44662416666235328, Program: "Main Program".
+ <262455533766486656> 13/08/2025 09:29:36.998     [Error  ] - Duplicate Index, Data Source: Suppliers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Adderi Fornecedores.Inicialização.Fornecedores Edit.Salvar".
+ <262455533766486656> 13/08/2025 09:30:03.434     [Error  ] - Aborting context 262455533766486656, Program: "Main Program".
+ <-1> 13/08/2025 10:41:07.284     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <422089206477102720> 13/08/2025 10:53:09.395     [Error  ] - Duplicate Index, Data Source: Suppliers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Adderi Fornecedores.Inicialização.Fornecedores Edit.Salvar".
+ <422089206477102720> 13/08/2025 10:53:16.432     [Error  ] - Aborting context 422089206477102720, Program: "Main Program".
+ <271433325545868736> 13/08/2025 10:54:02.742     [Error  ] - Aborting context 271433325545868736, Program: "Main Program".
+ <541667767265649344> 13/08/2025 10:57:27.508     [Error  ] - Duplicate Index, Data Source: Suppliers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Adderi Fornecedores.Inicialização.Fornecedores Edit.Salvar".
+ <541667767265649344> 13/08/2025 10:57:50.016     [Error  ] - Aborting context 541667767265649344, Program: "Main Program".
+ <490426957055252736> 13/08/2025 10:58:10.166     [Error  ] - Duplicate Index, Data Source: Suppliers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Adderi Fornecedores.Inicialização.Fornecedores Edit.Salvar".
+ <575941336378052480> 13/08/2025 11:33:51.516     [Error  ] - Duplicate Index, Data Source: Suppliers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Adderi Fornecedores.Inicialização.Fornecedores Edit.Salvar".
+ <575941336378052480> 13/08/2025 11:34:01.759     [Error  ] - Aborting context 575941336378052480, Program: "Main Program".
+ <418229648639599168> 13/08/2025 11:36:17.611     [Error  ] - Duplicate Index, Data Source: Suppliers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Adderi Fornecedores.Inicialização.Fornecedores Edit.Salvar".
+ <418229648639599168> 13/08/2025 11:36:34.644     [Error  ] - Aborting context 418229648639599168, Program: "Main Program".
+ <525448403716985536> 13/08/2025 11:41:45.620     [Error  ] - Duplicate Index, Data Source: Suppliers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Adderi Fornecedores.Inicialização.Fornecedores Edit.Salvar".
+ <525448403716985536> 13/08/2025 11:42:42.317     [Error  ] - Aborting context 525448403716985536, Program: "Main Program".
+ <154661242305947776> 13/08/2025 11:49:52.224     [Error  ] - Duplicate Index, Data Source: Suppliers  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Adderi Fornecedores.Inicialização.Fornecedores Edit.Salvar".
+ <154661242305947776> 13/08/2025 11:53:50.724     [Error  ] - Aborting context 154661242305947776, Program: "Main Program".
+ <267268515840028320> 13/08/2025 11:57:48.149     [Error  ] - Aborting context 267268515840028320, Program: "Main Program".
+ <333384802246045952> 13/08/2025 13:34:08.147     [Error  ] - Aborting context 333384802246045952, Program: "Main Program".
+ <344743772884460224> 13/08/2025 14:40:41.871     [Error  ] - Aborting context 344743772884460224, Program: "Main Program".
+ <-1> 13/08/2025 14:41:16.120     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <518710639374965824> 13/08/2025 14:44:11.335     [Error  ] - Aborting context 518710639374965824, Program: "Main Program".
+ <372921477804469184> 13/08/2025 14:54:43.801     [Error  ] - Aborting context 372921477804469184, Program: "Main Program".
+ <353325155552098368> 13/08/2025 15:12:36.766     [Error  ] - Aborting context 353325155552098368, Program: "Main Program".
+ <405802689698986240> 13/08/2025 15:18:59.210     [Error  ] - Aborting context 405802689698986240, Program: "Main Program".
+ <335214714035488384> 13/08/2025 15:30:48.566     [Error  ] - Aborting context 335214714035488384, Program: "Main Program".
+ <504961150693229184> 13/08/2025 15:43:05.517     [Error  ] - Execution Path: Adderi Produtos;Inicialização;BuscaDados, Program: "Adderi Produtos.Inicialização.BuscaDados".
+ <504961150693229184> 13/08/2025 15:43:05.517     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Adderi Produtos.Inicialização.BuscaDados".
+ <504961150693229184> 13/08/2025 15:43:05.518     [Error  ] -  Task Name: Adderi Produtos, Tag: 3, Parent Tag: 2, Program: "Adderi Produtos.Inicialização.BuscaDados".
+ <504961150693229184> 13/08/2025 15:43:05.518     [Error  ] -  Task Name: Inicialização, Tag: 12, Parent Tag: 3, Program: "Adderi Produtos.Inicialização.BuscaDados".
+ <504961150693229184> 13/08/2025 15:43:05.518     [Error  ] -  Task Name: BuscaDados, Tag: 13, Parent Tag: 12, Program: "Adderi Produtos.Inicialização.BuscaDados".
+ <504961150693229184> 13/08/2025 15:43:05.518     [Error  ] - End Task Tree, Program: "Adderi Produtos.Inicialização.BuscaDados".
+ <504961150693229184> 13/08/2025 15:43:05.520     [Error  ] - Error: Thread aborted, so error marked., Program: "".
+ <504961150693229184> 13/08/2025 15:43:05.521     [Error  ] - EndTaskRequest(): Adderi Produtos;Inicialização;BuscaDadosERR-THREAD-ABORTED (-139) : "Adderi Produtos.Inicialização" ("GettingStarted")  (msgid "573"), Program: "".
+ <125481128879570304> 13/08/2025 15:59:39.607     [Error  ] - Aborting context 125481128879570304, Program: "Main Program".
+ <83331996313150592> 13/08/2025 17:05:08.437     [Error  ] - Aborting context 83331996313150592, Program: "Main Program".
+ <443331495677194240> 13/08/2025 17:11:11.608     [Error  ] - Aborting context 443331495677194240, Program: "Main Program".
+ <83014359858152128> 13/08/2025 17:12:05.382     [Error  ] - Aborting context 83014359858152128, Program: "Main Program".
+ <496515212070507904> 13/08/2025 17:30:42.431     [Error  ] - Aborting context 496515212070507904, Program: "Main Program".
+ <269960580339149760> 13/08/2025 17:54:20.291     [Error  ] - Aborting context 269960580339149760, Program: "Main Program".
+ <434536690683933888> 13/08/2025 17:56:22.429     [Error  ] - Execution Path: Adderi Produtos;Inicialização;Produtos Edit;Salvar, Program: "Adderi Produtos.Inicialização.Produtos Edit.Salvar".
+ <434536690683933888> 13/08/2025 17:56:22.429     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Adderi Produtos.Inicialização.Produtos Edit.Salvar".
+ <434536690683933888> 13/08/2025 17:56:22.430     [Error  ] -  Task Name: Adderi Produtos, Tag: 3, Parent Tag: 2, Program: "Adderi Produtos.Inicialização.Produtos Edit.Salvar".
+ <434536690683933888> 13/08/2025 17:56:22.430     [Error  ] -  Task Name: Inicialização, Tag: 4, Parent Tag: 3, Program: "Adderi Produtos.Inicialização.Produtos Edit.Salvar".
+ <434536690683933888> 13/08/2025 17:56:22.430     [Error  ] -  Task Name: Produtos Edit, Tag: 5, Parent Tag: 4, Program: "Adderi Produtos.Inicialização.Produtos Edit.Salvar".
+ <434536690683933888> 13/08/2025 17:56:22.431     [Error  ] -  Task Name: Salvar, Tag: 7, Parent Tag: 5, Program: "Adderi Produtos.Inicialização.Produtos Edit.Salvar".
+ <434536690683933888> 13/08/2025 17:56:22.431     [Error  ] - End Task Tree, Program: "Adderi Produtos.Inicialização.Produtos Edit.Salvar".
+ <434536690683933888> 13/08/2025 17:56:22.432     [Error  ] - Error: Thread aborted, so error marked.
+ <434536690683933888> 13/08/2025 17:56:22.432     [Error  ] - EndTaskRequest(): Adderi Produtos;Inicialização;Produtos Edit;SalvarERR-THREAD-ABORTED (-139) : "Adderi Produtos.Inicialização.Produtos Edit" ("GettingStarted")  (msgid "177")
+ <139197439832342688> 14/08/2025 08:17:18.512     [Error  ] - Aborting context 139197439832342688, Program: "Main Program".
+ <362824150080655872> 14/08/2025 08:17:21.533     [Error  ] - Execution Path: Adderi Produtos;Inicialização;Produtos Edit;Salvar, Program: "Adderi Produtos.Inicialização.Produtos Edit.Salvar".
+ <362824150080655872> 14/08/2025 08:17:21.533     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Adderi Produtos.Inicialização.Produtos Edit.Salvar".
+ <362824150080655872> 14/08/2025 08:17:21.534     [Error  ] -  Task Name: Adderi Produtos, Tag: 3, Parent Tag: 2, Program: "Adderi Produtos.Inicialização.Produtos Edit.Salvar".
+ <362824150080655872> 14/08/2025 08:17:21.534     [Error  ] -  Task Name: Inicialização, Tag: 9, Parent Tag: 3, Program: "Adderi Produtos.Inicialização.Produtos Edit.Salvar".
+ <362824150080655872> 14/08/2025 08:17:21.535     [Error  ] -  Task Name: Produtos Edit, Tag: 10, Parent Tag: 9, Program: "Adderi Produtos.Inicialização.Produtos Edit.Salvar".
+ <362824150080655872> 14/08/2025 08:17:21.535     [Error  ] -  Task Name: Salvar, Tag: 12, Parent Tag: 10, Program: "Adderi Produtos.Inicialização.Produtos Edit.Salvar".
+ <362824150080655872> 14/08/2025 08:17:21.535     [Error  ] - End Task Tree, Program: "Adderi Produtos.Inicialização.Produtos Edit.Salvar".
+ <362824150080655872> 14/08/2025 08:17:21.536     [Error  ] - Error: Thread aborted, so error marked.
+ <362824150080655872> 14/08/2025 08:17:21.537     [Error  ] - EndTaskRequest(): Adderi Produtos;Inicialização;Produtos Edit;SalvarERR-THREAD-ABORTED (-139) : "Adderi Produtos.Inicialização.Produtos Edit" ("GettingStarted")  (msgid "24")
+ <23541915795058468> 14/08/2025 08:23:22.743     [Error  ] - Aborting context 23541915795058468, Program: "Main Program".
+ <180953627528897408> 14/08/2025 08:24:07.735     [Error  ] - Aborting context 180953627528897408, Program: "Main Program".
+ <91538716268241504> 14/08/2025 08:36:44.181     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Adderi Produtos.Inicialização.Produtos Edit.Salvar".
+ <91538716268241504> 14/08/2025 08:36:55.910     [Error  ] - Aborting context 91538716268241504, Program: "Main Program".
+ <330018806048444032> 14/08/2025 08:39:57.355     [Error  ] - Aborting context 330018806048444032, Program: "Main Program".
+ <325132354862149248> 14/08/2025 08:40:25.491     [Error  ] - Aborting context 325132354862149248, Program: "Main Program".
+ <315865031941023744> 14/08/2025 08:42:27.877     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Adderi Produtos.Inicialização.Produtos Edit.Salvar".
+ <315865031941023744> 14/08/2025 08:42:38.166     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Adderi Produtos.Inicialização.Produtos Edit.Salvar".
+ <315865031941023744> 14/08/2025 08:44:14.887     [Error  ] - Aborting context 315865031941023744, Program: "Main Program".
+ <454907769804144192> 14/08/2025 08:45:27.475     [Error  ] - Duplicate Index, Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\", Program: "Adderi Produtos.Inicialização.Produtos Edit.Salvar".
+ <454907769804144192> 14/08/2025 08:45:36.462     [Error  ] - Aborting context 454907769804144192, Program: "Main Program".
+ <22283572336482620> 14/08/2025 08:47:34.438     [Error  ] - Aborting context 22283572336482620, Program: "Main Program".
+ <202563312167667744> 14/08/2025 08:49:26.433     [Error  ] - Aborting context 202563312167667744, Program: "Main Program".
+ <86381467836944048> 14/08/2025 10:04:33.214     [Error  ] - Aborting context 86381467836944048, Program: "Main Program".
+ <206082860872405664> 14/08/2025 10:04:33.218     [Error  ] - Aborting context 206082860872405664, Program: "Main Program".
+ <261529866759250048> 14/08/2025 10:12:52.148     [Error  ] - Aborting context 261529866759250048, Program: "Main Program".
+ <537417355139052416> 14/08/2025 10:15:18.547     [Error  ] - Aborting context 537417355139052416, Program: "Main Program".
+ <234488508944379456> 14/08/2025 10:25:20.746     [Error  ] - Aborting context 234488508944379456, Program: "Main Program".
+ <558067161316485184> 14/08/2025 10:25:57.099     [Error  ] - Aborting context 558067161316485184, Program: "Main Program".
+ <37612369475638008> 14/08/2025 10:27:20.060     [Error  ] - Aborting context 37612369475638008, Program: "Main Program".
+ <197542593657241152> 14/08/2025 10:44:22.850     [Error  ] - Aborting context 197542593657241152, Program: "Main Program".
+ <198656306347534944> 14/08/2025 10:48:19.429     [Error  ] - Aborting context 198656306347534944, Program: "Main Program".
+ <12003999221324284> 14/08/2025 13:28:11.120     [Error  ] - Aborting context 12003999221324284, Program: "Main Program".
+ <118409903749121760> 14/08/2025 14:00:13.174     [Error  ] - Aborting context 118409903749121760, Program: "Main Program".
+ <435924699873129536> 14/08/2025 14:03:14.479     [Error  ] - Aborting context 435924699873129536, Program: "Main Program".
+ <497898509200411648> 14/08/2025 14:03:14.481     [Error  ] - Aborting context 497898509200411648, Program: "Main Program".
+ <337428356336142208> 14/08/2025 14:04:49.043     [Error  ] - Aborting context 337428356336142208, Program: "Main Program".
+ <542809132955459072> 14/08/2025 14:04:49.045     [Error  ] - Aborting context 542809132955459072, Program: "Main Program".
+ <410124034207775488> 14/08/2025 14:11:46.430     [Error  ] - Aborting context 410124034207775488, Program: "Main Program".
+ <17866365032629164> 14/08/2025 14:20:11.878     [Error  ] - Aborting context 17866365032629164, Program: "Main Program".
+ <31675303660333992> 14/08/2025 14:20:11.880     [Error  ] - Aborting context 31675303660333992, Program: "Main Program".
+ <453868309557015872> 14/08/2025 14:20:11.882     [Error  ] - Aborting context 453868309557015872, Program: "Main Program".
+ <205660988292052768> 14/08/2025 14:52:41.860     [Error  ] - Aborting context 205660988292052768, Program: "Main Program".
+ <279262900572453440> 14/08/2025 14:56:35.368     [Error  ] - Aborting context 279262900572453440, Program: "Main Program".
+ <97003922739824368> 14/08/2025 15:26:36.556     [Error  ] - Aborting context 97003922739824368, Program: "Main Program".
+ <190302047202928704> 14/08/2025 15:30:47.004     [Error  ] - Aborting context 190302047202928704, Program: "Main Program".
+ <480802792030420480> 14/08/2025 15:58:59.128     [Error  ] - Aborting context 480802792030420480, Program: "Main Program".
+ <198660620330045984> 14/08/2025 16:08:30.576     [Error  ] - Aborting context 198660620330045984, Program: "Main Program".
+ <209518190926172608> 14/08/2025 16:16:47.439     [Error  ] - EndTaskRequest(): Error: "Program not found" (-131) : "RunMe" ("GettingStarted")  (msgid "595")
+ <114102496516298656> 14/08/2025 16:17:46.490     [Error  ] - Aborting context 114102496516298656, Program: "Main Program".
+ <230459520722005248> 14/08/2025 16:17:46.492     [Error  ] - Aborting context 230459520722005248, Program: "Main Program".
+ <227355599338488576> 14/08/2025 16:22:26.820     [Error  ] - Aborting context 227355599338488576, Program: "Main Program".
+ <282756296190228192> 14/08/2025 16:31:21.415     [Error  ] - Aborting context 282756296190228192, Program: "Main Program".
+ <421289452667325760> 14/08/2025 16:39:18.672     [Error  ] - Aborting context 421289452667325760, Program: "Main Program".
+ <433519070268964160> 14/08/2025 16:46:04.917     [Error  ] - Execution Path: Adderi Países II;inicialização Cidade;Cidades Edit, Program: "Adderi Países II.inicialização Cidade.Cidades Edit".
+ <433519070268964160> 14/08/2025 16:46:04.918     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Adderi Países II.inicialização Cidade.Cidades Edit".
+ <433519070268964160> 14/08/2025 16:46:04.918     [Error  ] -  Task Name: Adderi Países II, Tag: 3, Parent Tag: 2, Program: "Adderi Países II.inicialização Cidade.Cidades Edit".
+ <433519070268964160> 14/08/2025 16:46:04.918     [Error  ] -  Task Name: Adderi Cidades II, Tag: 4, Parent Tag: 3, Program: "Adderi Países II.inicialização Cidade.Cidades Edit".
+ <433519070268964160> 14/08/2025 16:46:04.918     [Error  ] -  Task Name: inicialização Cidade, Tag: 5, Parent Tag: 3, Program: "Adderi Países II.inicialização Cidade.Cidades Edit".
+ <433519070268964160> 14/08/2025 16:46:04.919     [Error  ] -  Task Name: Cidades Edit, Tag: 7, Parent Tag: 5, Program: "Adderi Países II.inicialização Cidade.Cidades Edit".
+ <433519070268964160> 14/08/2025 16:46:04.919     [Error  ] - End Task Tree, Program: "Adderi Países II.inicialização Cidade.Cidades Edit".
+ <433519070268964160> 14/08/2025 16:46:04.920     [Error  ] - Error: Thread aborted, so error marked.
+ <433519070268964160> 14/08/2025 16:46:04.921     [Error  ] - EndTaskRequest(): Adderi Países II;inicialização Cidade;Cidades EditERR-THREAD-ABORTED (-139) : "Adderi Países II.inicialização Cidade" ("GettingStarted")  (msgid "787")
+ <185137380695816768> 14/08/2025 16:46:17.146     [Error  ] - Execution Path: Adderi Países II;inicialização Cidade;Cidades Edit, Program: "Adderi Países II.inicialização Cidade.Cidades Edit".
+ <185137380695816768> 14/08/2025 16:46:17.147     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Adderi Países II.inicialização Cidade.Cidades Edit".
+ <185137380695816768> 14/08/2025 16:46:17.147     [Error  ] -  Task Name: Adderi Países II, Tag: 3, Parent Tag: 2, Program: "Adderi Países II.inicialização Cidade.Cidades Edit".
+ <185137380695816768> 14/08/2025 16:46:17.147     [Error  ] -  Task Name: Adderi Cidades II, Tag: 4, Parent Tag: 3, Program: "Adderi Países II.inicialização Cidade.Cidades Edit".
+ <185137380695816768> 14/08/2025 16:46:17.148     [Error  ] -  Task Name: inicialização Cidade, Tag: 5, Parent Tag: 3, Program: "Adderi Países II.inicialização Cidade.Cidades Edit".
+ <185137380695816768> 14/08/2025 16:46:17.148     [Error  ] -  Task Name: Cidades Edit, Tag: 6, Parent Tag: 5, Program: "Adderi Países II.inicialização Cidade.Cidades Edit".
+ <185137380695816768> 14/08/2025 16:46:17.148     [Error  ] - End Task Tree, Program: "Adderi Países II.inicialização Cidade.Cidades Edit".
+ <185137380695816768> 14/08/2025 16:46:17.149     [Error  ] - Error: Thread aborted, so error marked.
+ <185137380695816768> 14/08/2025 16:46:17.150     [Error  ] - EndTaskRequest(): Adderi Países II;inicialização Cidade;Cidades EditERR-THREAD-ABORTED (-139) : "Adderi Países II.inicialização Cidade" ("GettingStarted")  (msgid "794")
+ <255862983199822048> 14/08/2025 16:47:39.655     [Error  ] - Execution Path: Adderi Países II;inicialização Cidade;Cidades Edit, Program: "Adderi Países II.inicialização Cidade.Cidades Edit".
+ <255862983199822048> 14/08/2025 16:47:39.655     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Adderi Países II.inicialização Cidade.Cidades Edit".
+ <255862983199822048> 14/08/2025 16:47:39.655     [Error  ] -  Task Name: Adderi Países II, Tag: 3, Parent Tag: 2, Program: "Adderi Países II.inicialização Cidade.Cidades Edit".
+ <255862983199822048> 14/08/2025 16:47:39.656     [Error  ] -  Task Name: Adderi Cidades II, Tag: 4, Parent Tag: 3, Program: "Adderi Países II.inicialização Cidade.Cidades Edit".
+ <255862983199822048> 14/08/2025 16:47:39.656     [Error  ] -  Task Name: inicialização Cidade, Tag: 5, Parent Tag: 3, Program: "Adderi Países II.inicialização Cidade.Cidades Edit".
+ <255862983199822048> 14/08/2025 16:47:39.656     [Error  ] -  Task Name: Cidades Edit, Tag: 6, Parent Tag: 5, Program: "Adderi Países II.inicialização Cidade.Cidades Edit".
+ <255862983199822048> 14/08/2025 16:47:39.657     [Error  ] - End Task Tree, Program: "Adderi Países II.inicialização Cidade.Cidades Edit".
+ <255862983199822048> 14/08/2025 16:47:39.657     [Error  ] - Error: Thread aborted, so error marked.
+ <255862983199822048> 14/08/2025 16:47:39.658     [Error  ] - EndTaskRequest(): Adderi Países II;inicialização Cidade;Cidades EditERR-THREAD-ABORTED (-139) : "Adderi Países II.inicialização Cidade" ("GettingStarted")  (msgid "801")
+ <517145622871943680> 14/08/2025 17:07:20.520     [Error  ] - Aborting context 517145622871943680, Program: "Main Program".
+ <331496025726976512> 14/08/2025 17:12:06.742     [Error  ] - Execution Path: Adderi Países II;inicialização Cidade;Cidades Edit, Program: "Adderi Países II.inicialização Cidade.Cidades Edit".
+ <331496025726976512> 14/08/2025 17:12:06.742     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Adderi Países II.inicialização Cidade.Cidades Edit".
+ <331496025726976512> 14/08/2025 17:12:06.742     [Error  ] -  Task Name: Adderi Países II, Tag: 3, Parent Tag: 2, Program: "Adderi Países II.inicialização Cidade.Cidades Edit".
+ <331496025726976512> 14/08/2025 17:12:06.743     [Error  ] -  Task Name: Adderi Cidades II, Tag: 4, Parent Tag: 3, Program: "Adderi Países II.inicialização Cidade.Cidades Edit".
+ <331496025726976512> 14/08/2025 17:12:06.743     [Error  ] -  Task Name: inicialização Cidade, Tag: 13, Parent Tag: 3, Program: "Adderi Países II.inicialização Cidade.Cidades Edit".
+ <331496025726976512> 14/08/2025 17:12:06.743     [Error  ] -  Task Name: Cidades Edit, Tag: 14, Parent Tag: 13, Program: "Adderi Países II.inicialização Cidade.Cidades Edit".
+ <331496025726976512> 14/08/2025 17:12:06.744     [Error  ] - End Task Tree, Program: "Adderi Países II.inicialização Cidade.Cidades Edit".
+ <331496025726976512> 14/08/2025 17:12:06.745     [Error  ] - Internal transaction error  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\"
+ <331496025726976512> 14/08/2025 17:12:06.749     [Error  ] - Error: Thread aborted, so error marked.
+ <331496025726976512> 14/08/2025 17:12:06.750     [Error  ] - EndTaskRequest(): Adderi Países II;inicialização Cidade;Cidades EditInternal transaction errorERR-THREAD-ABORTED (-139) : "Adderi Países II.inicialização Cidade" ("GettingStarted")  (msgid "834")
+ <63490078870815144> 14/08/2025 17:16:53.634     [Error  ] - Aborting context 63490078870815144, Program: "Main Program".
+ <-1> 14/08/2025 17:17:29.649     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 14/08/2025 17:23:35.958     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <464654256485067648> 15/08/2025 08:20:08.478     [Error  ] - Aborting context 464654256485067648, Program: "Main Program".
+ <573469346604378688> 15/08/2025 08:22:24.102     [Error  ] - Aborting context 573469346604378688, Program: "Main Program".
+ <181797157497040544> 15/08/2025 08:23:08.491     [Error  ] - Aborting context 181797157497040544, Program: "Main Program".
+ <157293238418090080> 15/08/2025 08:25:03.767     [Error  ] - Aborting context 157293238418090080, Program: "Main Program".
+ <275389059313576672> 15/08/2025 08:58:41.572     [Error  ] - Aborting context 275389059313576672, Program: "Main Program".
+ <231617572530324512> 15/08/2025 08:59:50.729     [Error  ] - Aborting context 231617572530324512, Program: "Main Program".
+ <154392176785794528> 15/08/2025 09:01:30.213     [Error  ] - Aborting context 154392176785794528, Program: "Main Program".
+ <128028972504816592> 15/08/2025 09:03:09.082     [Error  ] - Aborting context 128028972504816592, Program: "Main Program".
+ <189044288333441568> 15/08/2025 09:06:36.242     [Error  ] - Aborting context 189044288333441568, Program: "Main Program".
+ <441422593471816384> 15/08/2025 09:13:06.205     [Error  ] - Aborting context 441422593471816384, Program: "Main Program".
+ <135572023283074624> 15/08/2025 09:21:50.575     [Error  ] - Aborting context 135572023283074624, Program: "Main Program".
+ <206101558480318976> 15/08/2025 09:21:50.578     [Error  ] - Aborting context 206101558480318976, Program: "Main Program".
+ <533713178684631040> 15/08/2025 09:31:44.108     [Error  ] - Aborting context 533713178684631040, Program: "Main Program".

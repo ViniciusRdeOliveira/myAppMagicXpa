@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="Batch - LastId Excluir" ISN_2="1" LastIsn="1" id="123">
-          <LastModified _date="739474" _time="53764" date="11/08/2025" time="14:56:04"/>
+          <LastModified _date="739476" _time="42380" date="13/08/2025" time="11:46:20"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -47,9 +47,9 @@
             <Column id="2" name="p.Entidade">
               <PropertyList model="FIELD">
                 <Model attr_obj="FIELD_ALPHA" id="1"/>
-                <Picture id="157" valUnicode="10"/>
+                <Picture id="157" valUnicode="15"/>
                 <StoredAs id="173" val="1"/>
-                <Size id="174" val="10"/>
+                <Size id="174" val="15"/>
                 <_Flip id="194"/>
               </PropertyList>
             </Column>

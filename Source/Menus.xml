@@ -4,7 +4,7 @@
   <Header>
     <Version val="14100.00"/>
     <WithIsn val="Y"/>
-    <LastIsn val="7"/>
+    <LastIsn val="8"/>
   </Header>
 
   <MenusRepository>
@@ -779,6 +779,68 @@
           <Help comp="-1"/>
           <Prompt comp="-1"/>
           <Program ObjIsn="70" comp="-1" obj="70"/>
+          <SourceContext val="67"/>
+        </MenuEntry>
+      </Menu>
+      <Menu>
+        <ToolNumber val="8"/>
+        <Name val="Adderi Menu"/>
+        <LastIsn val="12"/>
+        <MenuEntry id="2">
+          <MenuType val="2"/>
+          <Description_U val="Adderi Clientes"/>
+          <Right comp="-1"/>
+          <Help comp="-1"/>
+          <Prompt comp="-1"/>
+          <Program ObjIsn="147" comp="-1" obj="147"/>
+          <SourceContext val="67"/>
+        </MenuEntry>
+        <MenuEntry id="4">
+          <MenuType val="5"/>
+        </MenuEntry>
+        <MenuEntry id="11">
+          <MenuType val="2"/>
+          <Description_U val="Adderi Fornecedores"/>
+          <Right comp="-1"/>
+          <Help comp="-1"/>
+          <Prompt comp="-1"/>
+          <Program ObjIsn="151" comp="-1" obj="151"/>
+          <SourceContext val="67"/>
+        </MenuEntry>
+        <MenuEntry id="5">
+          <MenuType val="5"/>
+        </MenuEntry>
+        <MenuEntry id="6">
+          <MenuType val="2"/>
+          <Description_U val="Adderi Produtos"/>
+          <Right comp="-1"/>
+          <Help comp="-1"/>
+          <Prompt comp="-1"/>
+          <Program ObjIsn="152" comp="-1" obj="152"/>
+          <SourceContext val="67"/>
+        </MenuEntry>
+        <MenuEntry id="7">
+          <MenuType val="5"/>
+        </MenuEntry>
+        <MenuEntry id="12">
+          <MenuType val="2"/>
+          <Description_U val="Adderi Países"/>
+          <Right comp="-1"/>
+          <Help comp="-1"/>
+          <Prompt comp="-1"/>
+          <Program ObjIsn="150" comp="-1" obj="150"/>
+          <SourceContext val="67"/>
+        </MenuEntry>
+        <MenuEntry id="9">
+          <MenuType val="5"/>
+        </MenuEntry>
+        <MenuEntry id="10">
+          <MenuType val="2"/>
+          <Description_U val="Adderi Cidades"/>
+          <Right comp="-1"/>
+          <Help comp="-1"/>
+          <Prompt comp="-1"/>
+          <Program ObjIsn="157" comp="-1" obj="157"/>
           <SourceContext val="67"/>
         </MenuEntry>
       </Menu>

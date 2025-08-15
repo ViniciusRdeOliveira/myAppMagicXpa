@@ -1,2 +1,1 @@
-faça o download do arquivo .dat para a pasta data.
-https://drive.google.com/file/d/1Ndcq7l2T4lCW66kQ8Zxns1aK4nUZepKV/view?usp=sharing
+Extraia o arquivo .dat de dentro do winrar.

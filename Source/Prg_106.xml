@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="Clientes" ISN_2="1" LastIsn="4" id="106">
-          <LastModified _date="739474" _time="61988" date="11/08/2025" time="17:13:08"/>
+          <LastModified _date="739475" _time="33517" date="12/08/2025" time="09:18:37"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -403,7 +403,7 @@
                   <Event>
                     <EventType val="N"/>
                   </Event>
-                  <TaskID comp="-1" obj="115"/>
+                  <TaskID comp="-1" obj="137"/>
                   <Lock val="N"/>
                   <Arguments>
                     <Argument>

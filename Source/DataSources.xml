@@ -603,7 +603,7 @@
   <Columns>
     <Column id="1" name="Product_Code">
       <PropertyList model="FIELD">
-        <Model attr_obj="FIELD_NUMERIC" id="1"/>
+        <Model attr_obj="FIELD_NUMERIC" comp="-1" id="1" obj="1"/>
         <Picture id="157" valUnicode="10"/>
         <StoredAs id="173" val="6"/>
         <Size id="174" val="8"/>
@@ -615,12 +615,11 @@
         <_Flip id="194"/>
         <_FieldPhysical Name="Product_Code" PIC_U="10" Size="8" allowed_null="N" attribute="N" context_cookies="Y" database_definition="2" id="231" storage="6" translate="1"/>
         <DefaultStorage id="274" val="Y"/>
-        <_FieldStyle id="276" val="1"/>
       </PropertyList>
     </Column>
     <Column id="2" name="Product_Name">
       <PropertyList model="FIELD">
-        <Model attr_obj="FIELD_ALPHA" id="1"/>
+        <Model attr_obj="FIELD_ALPHA" comp="-1" id="1" obj="2"/>
         <Picture id="157" valUnicode="60"/>
         <StoredAs id="173" val="3"/>
         <Size id="174" val="60"/>
@@ -633,7 +632,7 @@
     </Column>
     <Column id="3" name="Description">
       <PropertyList model="FIELD">
-        <Model attr_obj="FIELD_ALPHA" id="1"/>
+        <Model attr_obj="FIELD_ALPHA" comp="-1" id="1" obj="2"/>
         <Picture id="157" valUnicode="100"/>
         <StoredAs id="173" val="3"/>
         <Size id="174" val="100"/>
@@ -646,7 +645,7 @@
     </Column>
     <Column id="4" name="Supplier_Code">
       <PropertyList model="FIELD">
-        <Model attr_obj="FIELD_NUMERIC" id="1"/>
+        <Model attr_obj="FIELD_NUMERIC" comp="-1" id="1" obj="1"/>
         <Picture id="157" valUnicode="10"/>
         <StoredAs id="173" val="6"/>
         <Size id="174" val="8"/>
@@ -658,7 +657,6 @@
         <_Flip id="194"/>
         <_FieldPhysical Name="Supplier_Code" PIC_U="10" Size="8" allowed_null="N" attribute="N" context_cookies="Y" database_definition="2" id="231" storage="6" translate="1"/>
         <DefaultStorage id="274" val="Y"/>
-        <_FieldStyle id="276" val="1"/>
       </PropertyList>
     </Column>
     <Column id="5" name="Product_Price">
@@ -1086,10 +1084,9 @@
     </Column>
     <Column id="2" name="City_Code">
       <PropertyList model="FIELD">
-        <Model attr_obj="FIELD_NUMERIC" id="1"/>
+        <Model attr_obj="FIELD_NUMERIC" comp="-1" id="1" obj="1"/>
         <Modifiable id="53" val="Y"/>
         <Range id="98" valUnicode="\-2147483648-2147483647"/>
-        <Picture id="157" valUnicode="N10"/>
         <NullAllowed id="166"/>
         <NullDefault id="169"/>
         <DatabaseDefault id="171"/>
@@ -1101,10 +1098,7 @@
         <DbColumnName id="178" val="City_Code"/>
         <Type id="179" val="INT"/>
         <UserType id="180"/>
-        <_Dec id="181"/>
-        <_Whole id="182" val="10"/>
-        <_Negative id="192" val="Y"/>
-        <_FieldPhysical Name="City_Code" PIC_U="N10" Size="4" SqlType="INT" allowed_null="N" attribute="N" context_cookies="Y" database_definition="2" id="231" storage="4" translate="1"/>
+        <_FieldPhysical Name="City_Code" PIC_U="9" Size="4" SqlType="INT" allowed_null="N" attribute="N" context_cookies="Y" database_definition="2" id="231" storage="4" translate="1"/>
         <PartOfDatetime id="244"/>
       </PropertyList>
     </Column>
@@ -1208,9 +1202,9 @@
     <Column id="1" name="Entidade">
       <PropertyList model="FIELD">
         <Model attr_obj="FIELD_ALPHA" id="1"/>
-        <Picture id="157" valUnicode="10"/>
+        <Picture id="157" valUnicode="15"/>
         <StoredAs id="173" val="3"/>
-        <Size id="174" val="10"/>
+        <Size id="174" val="15"/>
         <Definition id="175" val="2"/>
         <DbColumnName id="178" val="Entidade"/>
         <_Flip id="194"/>
@@ -1245,72 +1239,7 @@
       <Primary val="N"/>
       <Segments>
         <Segment>
-          <Size val="10"/>
-          <Column val="1"/>
-          <Order val="A"/>
-        </Segment>
-      </Segments>
-    </Index>
-  </Indexes>
-
-  <ForeignKeys/>
-
-  <WebS/>
-
-</DataObject> 
-<DataObject PhysicalName="Ultimo_Id" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="18" name="Ultimo_Id">
-
-  <Encrypt val="N"/>
-
-  <Cache val="D"/>
-
-  <IdentifyRowModifications val="U"/>
-
-  <HasHint val="Y"/>
-
-  <Cursor val="D"/>
-
-  <CheckExistence val="D"/>
-
-  <ObjectType val="T"/>
-
-  <Position val="D"/>
-
-  <PositionIndex val="-1"/>
-
-  <IndexesLastIsn val="1"/>
-
-  <MetaTreeRTIndex val="-1"/>
-
-  <Columns>
-    <Column id="1" name="codigo">
-      <PropertyList model="FIELD">
-        <Model attr_obj="FIELD_NUMERIC" comp="-1" id="1" obj="1"/>
-        <StoredAs id="173" val="4"/>
-        <Size id="174" val="4"/>
-        <Definition id="175" val="2"/>
-        <DbColumnName id="178" val="codigo"/>
-        <_Flip id="194"/>
-        <_FieldPhysical Name="codigo" PIC_U="9" Size="4" allowed_null="N" attribute="N" context_cookies="Y" database_definition="2" id="231" storage="4" translate="1"/>
-        <DefaultStorage id="274" val="Y"/>
-      </PropertyList>
-    </Column>
-  </Columns>
-
-  <Indexes>
-    <Index id="1" name="codigo">
-      <Mode val="S"/>
-      <Order val="T"/>
-      <Range val="Q"/>
-      <IndexType val="R"/>
-      <PhysicalName val="codigo"/>
-      <HasHint val="Y"/>
-      <Clustered val="N"/>
-      <DropOnReindex val="N"/>
-      <Primary val="Y"/>
-      <Segments>
-        <Segment>
-          <Size val="4"/>
+          <Size val="15"/>
           <Column val="1"/>
           <Order val="A"/>
         </Segment>

@@ -5,8 +5,8 @@
     <Version val="14100.00"/>
     <WithIsn val="Y"/>
     <Exe comp="-1"/>
-    <LastIsn val="147"/>
-    <LastIsnFolder val="7"/>
+    <LastIsn val="157"/>
+    <LastIsnFolder val="8"/>
   </Header>
 
   <ProgramsRepositoryOutLine>
@@ -25,7 +25,12 @@
       <Program id="131"/>
       <Program id="132"/>
       <Program id="133"/>
+      <Program id="150"/>
+      <Program id="156"/>
+      <Program id="153"/>
+      <Program id="157"/>
       <Program id="134"/>
+      <Program id="152"/>
       <Program id="135"/>
       <Program id="136"/>
       <Program id="137"/>
@@ -37,6 +42,7 @@
       <Program id="143"/>
       <Program id="122"/>
       <Program id="123"/>
+      <Program id="151"/>
     </Programs>
   </ProgramsRepositoryOutLine>
 
