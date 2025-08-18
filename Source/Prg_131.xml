@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="Select Fornecedor" ISN_2="1" LastIsn="1" id="131">
-          <LastModified _date="739463" _time="50881" date="31/07/2025" time="14:08:01"/>
+          <LastModified _date="739481" _time="38180" date="18/08/2025" time="10:36:20"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>

@@ -2200,3 +2200,79 @@ PID 5796	31/07/2025 14:47:22
  <569693182094629888> 18/08/2025 09:04:29.656     [Error  ] - Aborting context 569693182094629888, Program: "Main Program".
  <112316652056480448> 18/08/2025 10:13:41.558     [Error  ] - Aborting context 112316652056480448, Program: "Main Program".
  <406280355907685824> 18/08/2025 10:14:44.275     [Error  ] - Aborting context 406280355907685824, Program: "Main Program".
+ <497692043175742464> 18/08/2025 11:32:58.445     [Error  ] - Aborting context 497692043175742464, Program: "Main Program".
+ <115349128617266384> 18/08/2025 14:50:38.031     [Error  ] - Execution Path: Adderi Cidades;Tabela, Program: "Adderi Cidades.Tabela".
+ <115349128617266384> 18/08/2025 14:50:38.032     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Adderi Cidades.Tabela".
+ <115349128617266384> 18/08/2025 14:50:38.032     [Error  ] -  Task Name: Adderi Cidades, Tag: 3, Parent Tag: 2, Program: "Adderi Cidades.Tabela".
+ <115349128617266384> 18/08/2025 14:50:38.032     [Error  ] -  Task Name: Tabela, Tag: 4, Parent Tag: 3, Program: "Adderi Cidades.Tabela".
+ <115349128617266384> 18/08/2025 14:50:38.032     [Error  ] - End Task Tree, Program: "Adderi Cidades.Tabela".
+ <115349128617266384> 18/08/2025 14:50:38.034     [Error  ] - Internal transaction error  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\"
+ <115349128617266384> 18/08/2025 14:50:38.035     [Error  ] - Error: Thread aborted, so error marked.
+ <115349128617266384> 18/08/2025 14:50:38.036     [Error  ] - EndTaskRequest(): Adderi Cidades;TabelaInternal transaction errorERR-THREAD-ABORTED (-139) : "RunMe" ("GettingStarted")  (msgid "92")
+ <505052731341145152> 18/08/2025 14:50:50.183     [Error  ] - Execution Path: Adderi Cidades;Tabela, Program: "Adderi Cidades.Tabela".
+ <505052731341145152> 18/08/2025 14:50:50.184     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Adderi Cidades.Tabela".
+ <505052731341145152> 18/08/2025 14:50:50.185     [Error  ] -  Task Name: Adderi Cidades, Tag: 3, Parent Tag: 2, Program: "Adderi Cidades.Tabela".
+ <505052731341145152> 18/08/2025 14:50:50.185     [Error  ] -  Task Name: Tabela, Tag: 4, Parent Tag: 3, Program: "Adderi Cidades.Tabela".
+ <505052731341145152> 18/08/2025 14:50:50.186     [Error  ] - End Task Tree, Program: "Adderi Cidades.Tabela".
+ <505052731341145152> 18/08/2025 14:50:50.186     [Error  ] - Internal transaction error  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\"
+ <505052731341145152> 18/08/2025 14:50:50.187     [Error  ] - Error: Thread aborted, so error marked.
+ <505052731341145152> 18/08/2025 14:50:50.187     [Error  ] - EndTaskRequest(): Adderi Cidades;TabelaInternal transaction errorERR-THREAD-ABORTED (-139) : "RunMe" ("GettingStarted")  (msgid "95")
+ <472303215626874624> 18/08/2025 15:03:10.056     [Error  ] - Execution Path: Adderi Cidades;Tabela, Program: "Adderi Cidades.Tabela".
+ <472303215626874624> 18/08/2025 15:03:10.057     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Adderi Cidades.Tabela".
+ <472303215626874624> 18/08/2025 15:03:10.058     [Error  ] -  Task Name: Adderi Cidades, Tag: 3, Parent Tag: 2, Program: "Adderi Cidades.Tabela".
+ <472303215626874624> 18/08/2025 15:03:10.058     [Error  ] -  Task Name: Tabela, Tag: 4, Parent Tag: 3, Program: "Adderi Cidades.Tabela".
+ <472303215626874624> 18/08/2025 15:03:10.059     [Error  ] - End Task Tree, Program: "Adderi Cidades.Tabela".
+ <472303215626874624> 18/08/2025 15:03:10.061     [Error  ] - Internal transaction error  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\"
+ <472303215626874624> 18/08/2025 15:03:10.062     [Error  ] - Error: Thread aborted, so error marked.
+ <472303215626874624> 18/08/2025 15:03:10.063     [Error  ] - EndTaskRequest(): Adderi Cidades;TabelaInternal transaction errorERR-THREAD-ABORTED (-139) : "RunMe" ("GettingStarted")  (msgid "98")
+ <105836597508070320> 18/08/2025 15:06:36.878     [Error  ] - Execution Path: Adderi Cidades;Tabela, Program: "Adderi Cidades.Tabela".
+ <105836597508070320> 18/08/2025 15:06:36.880     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Adderi Cidades.Tabela".
+ <105836597508070320> 18/08/2025 15:06:36.881     [Error  ] -  Task Name: Adderi Cidades, Tag: 3, Parent Tag: 2, Program: "Adderi Cidades.Tabela".
+ <105836597508070320> 18/08/2025 15:06:36.882     [Error  ] -  Task Name: Tabela, Tag: 4, Parent Tag: 3, Program: "Adderi Cidades.Tabela".
+ <105836597508070320> 18/08/2025 15:06:36.883     [Error  ] - End Task Tree, Program: "Adderi Cidades.Tabela".
+ <105836597508070320> 18/08/2025 15:06:36.886     [Error  ] - Internal transaction error  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\"
+ <105836597508070320> 18/08/2025 15:06:36.887     [Error  ] - Error: Thread aborted, so error marked.
+ <105836597508070320> 18/08/2025 15:06:36.889     [Error  ] - EndTaskRequest(): Adderi Cidades;TabelaInternal transaction errorERR-THREAD-ABORTED (-139) : "RunMe" ("GettingStarted")  (msgid "101")
+ <552106417479662720> 18/08/2025 15:07:18.714     [Error  ] - Execution Path: Adderi Cidades;Tabela, Program: "Adderi Cidades.Tabela".
+ <552106417479662720> 18/08/2025 15:07:18.715     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Adderi Cidades.Tabela".
+ <552106417479662720> 18/08/2025 15:07:18.716     [Error  ] -  Task Name: Adderi Cidades, Tag: 3, Parent Tag: 2, Program: "Adderi Cidades.Tabela".
+ <552106417479662720> 18/08/2025 15:07:18.717     [Error  ] -  Task Name: Tabela, Tag: 4, Parent Tag: 3, Program: "Adderi Cidades.Tabela".
+ <552106417479662720> 18/08/2025 15:07:18.719     [Error  ] - End Task Tree, Program: "Adderi Cidades.Tabela".
+ <552106417479662720> 18/08/2025 15:07:18.721     [Error  ] - Internal transaction error  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\"
+ <552106417479662720> 18/08/2025 15:07:18.723     [Error  ] - Error: Thread aborted, so error marked.
+ <552106417479662720> 18/08/2025 15:07:18.725     [Error  ] - EndTaskRequest(): Adderi Cidades;TabelaInternal transaction errorERR-THREAD-ABORTED (-139) : "RunMe" ("GettingStarted")  (msgid "104")
+ <297827964392352384> 18/08/2025 15:07:26.673     [Error  ] - Execution Path: Adderi Cidades;Tabela, Program: "Adderi Cidades.Tabela".
+ <297827964392352384> 18/08/2025 15:07:26.675     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Adderi Cidades.Tabela".
+ <297827964392352384> 18/08/2025 15:07:26.676     [Error  ] -  Task Name: Adderi Cidades, Tag: 3, Parent Tag: 2, Program: "Adderi Cidades.Tabela".
+ <297827964392352384> 18/08/2025 15:07:26.678     [Error  ] -  Task Name: Tabela, Tag: 4, Parent Tag: 3, Program: "Adderi Cidades.Tabela".
+ <297827964392352384> 18/08/2025 15:07:26.679     [Error  ] - End Task Tree, Program: "Adderi Cidades.Tabela".
+ <297827964392352384> 18/08/2025 15:07:26.681     [Error  ] - Internal transaction error  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\"
+ <297827964392352384> 18/08/2025 15:07:26.683     [Error  ] - Error: Thread aborted, so error marked.
+ <297827964392352384> 18/08/2025 15:07:26.687     [Error  ] - EndTaskRequest(): Adderi Cidades;TabelaInternal transaction errorERR-THREAD-ABORTED (-139) : "RunMe" ("GettingStarted")  (msgid "107")
+ <284075321195201664> 18/08/2025 15:08:12.308     [Error  ] - Execution Path: Adderi Cidades;Tabela, Program: "Adderi Cidades.Tabela".
+ <284075321195201664> 18/08/2025 15:08:12.309     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Adderi Cidades.Tabela".
+ <284075321195201664> 18/08/2025 15:08:12.310     [Error  ] -  Task Name: Adderi Cidades, Tag: 3, Parent Tag: 2, Program: "Adderi Cidades.Tabela".
+ <284075321195201664> 18/08/2025 15:08:12.311     [Error  ] -  Task Name: Tabela, Tag: 4, Parent Tag: 3, Program: "Adderi Cidades.Tabela".
+ <284075321195201664> 18/08/2025 15:08:12.312     [Error  ] - End Task Tree, Program: "Adderi Cidades.Tabela".
+ <284075321195201664> 18/08/2025 15:08:12.314     [Error  ] - Internal transaction error  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\"
+ <284075321195201664> 18/08/2025 15:08:12.316     [Error  ] - Error: Thread aborted, so error marked.
+ <284075321195201664> 18/08/2025 15:08:12.318     [Error  ] - EndTaskRequest(): Adderi Cidades;TabelaInternal transaction errorERR-THREAD-ABORTED (-139) : "RunMe" ("GettingStarted")  (msgid "110")
+ <150165271011704032> 18/08/2025 15:08:21.069     [Error  ] - Execution Path: Adderi Cidades;Tabela, Program: "Adderi Cidades.Tabela".
+ <150165271011704032> 18/08/2025 15:08:21.070     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Adderi Cidades.Tabela".
+ <150165271011704032> 18/08/2025 15:08:21.072     [Error  ] -  Task Name: Adderi Cidades, Tag: 3, Parent Tag: 2, Program: "Adderi Cidades.Tabela".
+ <150165271011704032> 18/08/2025 15:08:21.073     [Error  ] -  Task Name: Tabela, Tag: 4, Parent Tag: 3, Program: "Adderi Cidades.Tabela".
+ <150165271011704032> 18/08/2025 15:08:21.074     [Error  ] - End Task Tree, Program: "Adderi Cidades.Tabela".
+ <150165271011704032> 18/08/2025 15:08:21.076     [Error  ] - Internal transaction error  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\"
+ <150165271011704032> 18/08/2025 15:08:21.078     [Error  ] - Error: Thread aborted, so error marked.
+ <150165271011704032> 18/08/2025 15:08:21.080     [Error  ] - EndTaskRequest(): Adderi Cidades;TabelaInternal transaction errorERR-THREAD-ABORTED (-139) : "RunMe" ("GettingStarted")  (msgid "113")
+ <286505313636490272> 18/08/2025 15:10:55.849     [Error  ] - Execution Path: Adderi Cidades;Tabela, Program: "Adderi Cidades.Tabela".
+ <286505313636490272> 18/08/2025 15:10:55.850     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Adderi Cidades.Tabela".
+ <286505313636490272> 18/08/2025 15:10:55.851     [Error  ] -  Task Name: Adderi Cidades, Tag: 3, Parent Tag: 2, Program: "Adderi Cidades.Tabela".
+ <286505313636490272> 18/08/2025 15:10:55.852     [Error  ] -  Task Name: Tabela, Tag: 4, Parent Tag: 3, Program: "Adderi Cidades.Tabela".
+ <286505313636490272> 18/08/2025 15:10:55.852     [Error  ] - End Task Tree, Program: "Adderi Cidades.Tabela".
+ <286505313636490272> 18/08/2025 15:10:55.854     [Error  ] - Internal transaction error  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\"
+ <286505313636490272> 18/08/2025 15:10:55.855     [Error  ] - Error: Thread aborted, so error marked.
+ <286505313636490272> 18/08/2025 15:10:55.856     [Error  ] - EndTaskRequest(): Adderi Cidades;TabelaInternal transaction errorERR-THREAD-ABORTED (-139) : "RunMe" ("GettingStarted")  (msgid "116")
+ <439790948459774976> 18/08/2025 16:05:43.237     [Error  ] - EndTaskRequest(): Error: "Program not found" (-131) : "RunMe" ("GettingStarted")  (msgid "142")
+ <179791047429507456> 18/08/2025 16:05:49.933     [Error  ] - EndTaskRequest(): Error: "Program not found" (-131) : "RunMe" ("GettingStarted")  (msgid "145")
+ <348814219689527296> 18/08/2025 16:08:43.267     [Error  ] - Aborting context 348814219689527296, Program: "Main Program".

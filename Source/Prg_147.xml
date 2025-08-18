@@ -14,8 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="Adderi Clientes" ISN_2="2" LastIsn="50" id="147">
-          <LastModified _date="739481" _time="37074" date="18/08/2025" time="10:17:54"/>
-          <Public val="RunMe"/>
+          <LastModified _date="739481" _time="58274" date="18/08/2025" time="16:11:14"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -26,7 +25,7 @@
           <SqlWhereExist val="N"/>
           <TaskType val="C"/>
           <Interactive val="Y"/>
-          <External val="Y"/>
+          <External val="N"/>
           <Offline val="N"/>
           <FormType val="N"/>
           <DotNetObjectExists val="N"/>
@@ -622,7 +621,7 @@
         </EVNT>
         <Task MainProgram="N">
           <Header Description="Tabela" ISN_2="45" LastIsn="50" id="147">
-            <LastModified _date="739481" _time="34472" date="18/08/2025" time="09:34:32"/>
+            <LastModified _date="739481" _time="58274" date="18/08/2025" time="16:11:14"/>
             <ExecutionRight comp="-1"/>
             <Resident val="N"/>
             <SQL val="N"/>
@@ -640,7 +639,7 @@
             <FormType val="N"/>
             <DotNetObjectExists val="N"/>
           </Header>
-          <ItemIsn val="26"/>
+          <ItemIsn val="27"/>
           <Resource>
             <DB id="1">
               <DataObject comp="-1" obj="1"/>

@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="Adderi Cidades&amp;Países" ISN_2="1" LastIsn="48" id="156">
-          <LastModified _date="739481" _time="30456" date="18/08/2025" time="08:27:36"/>
+          <LastModified _date="739481" _time="42472" date="18/08/2025" time="11:47:52"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -334,6 +334,7 @@
                       <Skip val="Y"/>
                     </Argument>
                     <Argument>
+                      <Expression val="12"/>
                       <Skip val="N"/>
                     </Argument>
                   </Arguments>
@@ -1164,7 +1165,7 @@
           </Task>
           <Task MainProgram="N">
             <Header Description="Cidades Edit" ISN_2="46" LastIsn="48" id="156">
-              <LastModified _date="739478" _time="60213" date="15/08/2025" time="16:43:33"/>
+              <LastModified _date="739481" _time="42396" date="18/08/2025" time="11:46:36"/>
               <ExecutionRight comp="-1"/>
               <Resident val="N"/>
               <SQL val="N"/>
@@ -1554,18 +1555,6 @@
               <Expression id="1">
                 <ExpSyntax val="'CIDADE'"/>
                 <ExpAttribute val="A"/>
-              </Expression>
-              <Expression id="2">
-                <ExpSyntax val="{44,4}='C'"/>
-                <ExpAttribute val="B"/>
-              </Expression>
-              <Expression id="3">
-                <ExpSyntax val="{44,11}"/>
-                <ExpAttribute val="A"/>
-              </Expression>
-              <Expression id="4">
-                <ExpSyntax val="{1,9}"/>
-                <ExpAttribute val="N"/>
               </Expression>
             </Expressions>
             <Task MainProgram="N">
