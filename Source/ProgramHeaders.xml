@@ -8,7 +8,7 @@
 
   <ProgramsRepositoryHeaders>
     <Program>
-      <Header Description="Main Program" ISN_2="1" LastIsn="1" id="1">
+      <Header Description="Main Program" ISN_2="1" LastIsn="2" id="1">
         <LastModified _date="739435" _time="34286" date="03/07/2025" time="09:31:26"/>
         <Resident val="N"/>
         <SQL val="N"/>
@@ -162,8 +162,9 @@
       <SourceFileTimeStamp _date="739475" _time="44317" date="12/08/2025" time="12:18:37"/>
     </Program>
     <Program>
-      <Header Description="Adderi Clientes" ISN_2="1" LastIsn="18" id="147">
-        <LastModified _date="739478" _time="30168" date="15/08/2025" time="08:22:48"/>
+      <Header Description="Adderi Clientes" ISN_2="2" LastIsn="50" id="147">
+        <LastModified _date="739481" _time="37074" date="18/08/2025" time="10:17:54"/>
+        <Public val="RunMe"/>
         <ExecutionRight comp="-1"/>
         <Resident val="N"/>
         <SQL val="N"/>
@@ -174,12 +175,12 @@
         <SqlWhereExist val="N"/>
         <TaskType val="C"/>
         <Interactive val="Y"/>
-        <External val="N"/>
+        <External val="Y"/>
         <Offline val="N"/>
         <FormType val="N"/>
         <DotNetObjectExists val="N"/>
       </Header>
-      <SourceFileTimeStamp _date="739478" _time="40968" date="15/08/2025" time="11:22:48"/>
+      <SourceFileTimeStamp _date="739481" _time="47874" date="18/08/2025" time="13:17:54"/>
     </Program>
     <Program>
       <Header Description="Select Cliente" ISN_2="1" LastIsn="1" id="129">
@@ -308,8 +309,8 @@
       <SourceFileTimeStamp _date="739478" _time="44831" date="15/08/2025" time="12:27:11"/>
     </Program>
     <Program>
-      <Header Description="Adderi Países II" ISN_2="1" LastIsn="35" id="156">
-        <LastModified _date="739478" _time="32267" date="15/08/2025" time="08:57:47"/>
+      <Header Description="Adderi Cidades&amp;Países" ISN_2="1" LastIsn="48" id="156">
+        <LastModified _date="739481" _time="30456" date="18/08/2025" time="08:27:36"/>
         <ExecutionRight comp="-1"/>
         <Resident val="N"/>
         <SQL val="N"/>
@@ -325,11 +326,11 @@
         <FormType val="N"/>
         <DotNetObjectExists val="N"/>
       </Header>
-      <SourceFileTimeStamp _date="739478" _time="43067" date="15/08/2025" time="11:57:47"/>
+      <SourceFileTimeStamp _date="739481" _time="41256" date="18/08/2025" time="11:27:36"/>
     </Program>
     <Program>
       <Header Description="Adderi Cidades II" ISN_2="1" LastIsn="6" id="153">
-        <LastModified _date="739478" _time="32197" date="15/08/2025" time="08:56:37"/>
+        <LastModified _date="739478" _time="37738" date="15/08/2025" time="10:28:58"/>
         <ExecutionRight comp="-1"/>
         <Resident val="N"/>
         <SQL val="N"/>
@@ -348,7 +349,7 @@
         <FormType val="D"/>
         <DotNetObjectExists val="N"/>
       </Header>
-      <SourceFileTimeStamp _date="739478" _time="42997" date="15/08/2025" time="11:56:37"/>
+      <SourceFileTimeStamp _date="739478" _time="48538" date="15/08/2025" time="13:28:58"/>
     </Program>
     <Program>
       <Header Description="Adderi Cidades" ISN_2="1" LastIsn="6" id="157">
@@ -395,7 +396,7 @@
     </Program>
     <Program>
       <Header Description="Adderi Produtos" ISN_2="2" LastIsn="31" id="152">
-        <LastModified _date="739478" _time="33970" date="15/08/2025" time="09:26:10"/>
+        <LastModified _date="739481" _time="31023" date="18/08/2025" time="08:37:03"/>
         <ExecutionRight comp="-1"/>
         <Resident val="N"/>
         <SQL val="N"/>
@@ -411,7 +412,7 @@
         <FormType val="N"/>
         <DotNetObjectExists val="N"/>
       </Header>
-      <SourceFileTimeStamp _date="739478" _time="44770" date="15/08/2025" time="12:26:10"/>
+      <SourceFileTimeStamp _date="739481" _time="41823" date="18/08/2025" time="11:37:03"/>
     </Program>
     <Program>
       <Header Description="Import - Products" ISN_2="1" LastIsn="1" id="135">
@@ -434,8 +435,7 @@
     </Program>
     <Program>
       <Header Description="&lt;&lt;&lt; Iniciar" ISN_2="1" LastIsn="1" id="136">
-        <LastModified _date="739478" _time="29931" date="15/08/2025" time="08:18:51"/>
-        <Public val="RunMe"/>
+        <LastModified _date="739481" _time="36893" date="18/08/2025" time="10:14:53"/>
         <ExecutionRight comp="-1"/>
         <Resident val="N"/>
         <SQL val="N"/>
@@ -446,12 +446,12 @@
         <SqlWhereExist val="N"/>
         <TaskType val="C"/>
         <Interactive val="Y"/>
-        <External val="Y"/>
+        <External val="N"/>
         <Offline val="N"/>
         <FormType val="N"/>
         <DotNetObjectExists val="N"/>
       </Header>
-      <SourceFileTimeStamp _date="739478" _time="40731" date="15/08/2025" time="11:18:51"/>
+      <SourceFileTimeStamp _date="739481" _time="47693" date="18/08/2025" time="13:14:53"/>
     </Program>
     <Program>
       <Header Description="Relatório - Clientes" ISN_2="1" LastIsn="1" id="137">

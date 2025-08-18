@@ -2049,3 +2049,154 @@ PID 5796	31/07/2025 14:47:22
  <135572023283074624> 15/08/2025 09:21:50.575     [Error  ] - Aborting context 135572023283074624, Program: "Main Program".
  <206101558480318976> 15/08/2025 09:21:50.578     [Error  ] - Aborting context 206101558480318976, Program: "Main Program".
  <533713178684631040> 15/08/2025 09:31:44.108     [Error  ] - Aborting context 533713178684631040, Program: "Main Program".
+ <231995593277228768> 15/08/2025 09:57:26.384     [Error  ] - Aborting context 231995593277228768, Program: "Main Program".
+ <219987429074610848> 15/08/2025 10:15:50.102     [Error  ] - Aborting context 219987429074610848, Program: "Main Program".
+ <43826041238785120> 15/08/2025 10:25:20.416     [Error  ] - Aborting context 43826041238785120, Program: "Main Program".
+ <341326742352752768> 15/08/2025 10:28:41.108     [Error  ] - Aborting context 341326742352752768, Program: "Main Program".
+ <551803735454202240> 15/08/2025 10:29:21.636     [Error  ] - Aborting context 551803735454202240, Program: "Main Program".
+ <135353033550889568> 15/08/2025 10:42:49.798     [Error  ] - Aborting context 135353033550889568, Program: "Main Program".
+ <419117398364273792> 15/08/2025 10:42:49.801     [Error  ] - Aborting context 419117398364273792, Program: "Main Program".
+ <221891658713480640> 15/08/2025 10:43:30.811     [Error  ] - Aborting context 221891658713480640, Program: "Main Program".
+ <380407175043142784> 15/08/2025 10:43:30.813     [Error  ] - Aborting context 380407175043142784, Program: "Main Program".
+ <373631320699108672> 15/08/2025 10:45:08.772     [Error  ] - Aborting context 373631320699108672, Program: "Main Program".
+ <12301977429279160> 15/08/2025 10:46:08.208     [Error  ] - Aborting context 12301977429279160, Program: "Main Program".
+ <9224006502319072> 15/08/2025 10:50:53.696     [Error  ] - Aborting context 9224006502319072, Program: "Main Program".
+ <273466106385021472> 15/08/2025 11:04:09.137     [Error  ] - Aborting context 273466106385021472, Program: "Main Program".
+ <189286879119864480> 15/08/2025 11:11:02.407     [Error  ] - Execution Path: Adderi Cidades&Países;inicialização Cidade;Cidades Edit, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <189286879119864480> 15/08/2025 11:11:02.408     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <189286879119864480> 15/08/2025 11:11:02.408     [Error  ] -  Task Name: Adderi Cidades&Países, Tag: 3, Parent Tag: 2, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <189286879119864480> 15/08/2025 11:11:02.408     [Error  ] -  Task Name: inicialização Cidade, Tag: 4, Parent Tag: 3, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <189286879119864480> 15/08/2025 11:11:02.409     [Error  ] -  Task Name: Cidades Edit, Tag: 5, Parent Tag: 4, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <189286879119864480> 15/08/2025 11:11:02.409     [Error  ] - End Task Tree, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <189286879119864480> 15/08/2025 11:11:02.411     [Error  ] - Internal transaction error  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\"
+ <189286879119864480> 15/08/2025 11:11:02.412     [Error  ] - Error: Thread aborted, so error marked.
+ <189286879119864480> 15/08/2025 11:11:02.414     [Error  ] - EndTaskRequest(): Adderi Cidades&Países;inicialização Cidade;Cidades EditInternal transaction errorERR-THREAD-ABORTED (-139) : "" ("GettingStarted")  (msgid "518")
+ <61287023931152168> 15/08/2025 11:11:09.848     [Error  ] - Execution Path: Adderi Cidades&Países;inicialização Cidade;Cidades Edit, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <61287023931152168> 15/08/2025 11:11:09.849     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <61287023931152168> 15/08/2025 11:11:09.849     [Error  ] -  Task Name: Adderi Cidades&Países, Tag: 3, Parent Tag: 2, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <61287023931152168> 15/08/2025 11:11:09.849     [Error  ] -  Task Name: inicialização Cidade, Tag: 4, Parent Tag: 3, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <61287023931152168> 15/08/2025 11:11:09.849     [Error  ] -  Task Name: Cidades Edit, Tag: 6, Parent Tag: 4, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <61287023931152168> 15/08/2025 11:11:09.850     [Error  ] - End Task Tree, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <61287023931152168> 15/08/2025 11:11:09.850     [Error  ] - Internal transaction error  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\"
+ <61287023931152168> 15/08/2025 11:11:09.851     [Error  ] - Error: Thread aborted, so error marked.
+ <61287023931152168> 15/08/2025 11:11:09.851     [Error  ] - EndTaskRequest(): Adderi Cidades&Países;inicialização Cidade;Cidades EditInternal transaction errorERR-THREAD-ABORTED (-139) : "Adderi Cidades&Países.inicialização Cidade" ("GettingStarted")  (msgid "523")
+ <559929207309347264> 15/08/2025 11:15:14.947     [Error  ] - Aborting context 559929207309347264, Program: "Main Program".
+ <40397310047058544> 15/08/2025 11:16:02.222     [Error  ] - Execution Path: Adderi Cidades&Países;inicialização Cidade;Cidades Edit, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <40397310047058544> 15/08/2025 11:16:02.222     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <40397310047058544> 15/08/2025 11:16:02.223     [Error  ] -  Task Name: Adderi Cidades&Países, Tag: 3, Parent Tag: 2, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <40397310047058544> 15/08/2025 11:16:02.223     [Error  ] -  Task Name: inicialização Cidade, Tag: 4, Parent Tag: 3, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <40397310047058544> 15/08/2025 11:16:02.223     [Error  ] -  Task Name: Cidades Edit, Tag: 6, Parent Tag: 4, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <40397310047058544> 15/08/2025 11:16:02.224     [Error  ] - End Task Tree, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <40397310047058544> 15/08/2025 11:16:02.225     [Error  ] - Internal transaction error  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\"
+ <40397310047058544> 15/08/2025 11:16:02.225     [Error  ] - Error: Thread aborted, so error marked.
+ <40397310047058544> 15/08/2025 11:16:02.226     [Error  ] - EndTaskRequest(): Adderi Cidades&Países;inicialização Cidade;Cidades EditInternal transaction errorERR-THREAD-ABORTED (-139) : "Adderi Cidades&Países.inicialização Cidade" ("GettingStarted")  (msgid "539")
+ <234594063200651680> 15/08/2025 11:16:19.728     [Error  ] - Execution Path: Adderi Cidades&Países;inicialização Cidade;Cidades Edit, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <234594063200651680> 15/08/2025 11:16:19.730     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <234594063200651680> 15/08/2025 11:16:19.731     [Error  ] -  Task Name: Adderi Cidades&Países, Tag: 3, Parent Tag: 2, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <234594063200651680> 15/08/2025 11:16:19.733     [Error  ] -  Task Name: inicialização Cidade, Tag: 6, Parent Tag: 3, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <234594063200651680> 15/08/2025 11:16:19.734     [Error  ] -  Task Name: Cidades Edit, Tag: 8, Parent Tag: 6, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <234594063200651680> 15/08/2025 11:16:19.735     [Error  ] - End Task Tree, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <234594063200651680> 15/08/2025 11:16:19.737     [Error  ] - Internal transaction error  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\"
+ <234594063200651680> 15/08/2025 11:16:19.738     [Error  ] - Error: Thread aborted, so error marked.
+ <234594063200651680> 15/08/2025 11:16:19.739     [Error  ] - EndTaskRequest(): Adderi Cidades&Países;inicialização Cidade;Cidades EditInternal transaction errorERR-THREAD-ABORTED (-139) : "Adderi Cidades&Países.inicialização Cidade" ("GettingStarted")  (msgid "550")
+ <209508988727336768> 15/08/2025 11:41:14.272     [Error  ] - Execution Path: Adderi Cidades&Países;inicialização Cidade;Cidades Edit, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <209508988727336768> 15/08/2025 11:41:14.272     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <209508988727336768> 15/08/2025 11:41:14.273     [Error  ] -  Task Name: Adderi Cidades&Países, Tag: 3, Parent Tag: 2, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <209508988727336768> 15/08/2025 11:41:14.273     [Error  ] -  Task Name: inicialização Cidade, Tag: 15, Parent Tag: 3, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <209508988727336768> 15/08/2025 11:41:14.273     [Error  ] -  Task Name: Cidades Edit, Tag: 17, Parent Tag: 15, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <209508988727336768> 15/08/2025 11:41:14.274     [Error  ] - End Task Tree, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <209508988727336768> 15/08/2025 11:41:14.274     [Error  ] - Internal transaction error  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\"
+ <209508988727336768> 15/08/2025 11:41:14.275     [Error  ] - Error: Thread aborted, so error marked.
+ <209508988727336768> 15/08/2025 11:41:14.275     [Error  ] - EndTaskRequest(): Adderi Cidades&Países;inicialização Cidade;Cidades EditInternal transaction errorERR-THREAD-ABORTED (-139) : "Adderi Cidades&Países.inicialização Cidade" ("GettingStarted")  (msgid "576")
+ <452961054749834048> 15/08/2025 11:43:41.494     [Error  ] - Execution Path: Adderi Cidades&Países;inicialização Cidade;Cidades Edit, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <452961054749834048> 15/08/2025 11:43:41.494     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <452961054749834048> 15/08/2025 11:43:41.495     [Error  ] -  Task Name: Adderi Cidades&Países, Tag: 3, Parent Tag: 2, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <452961054749834048> 15/08/2025 11:43:41.495     [Error  ] -  Task Name: inicialização Cidade, Tag: 5, Parent Tag: 3, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <452961054749834048> 15/08/2025 11:43:41.496     [Error  ] -  Task Name: Cidades Edit, Tag: 7, Parent Tag: 5, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <452961054749834048> 15/08/2025 11:43:41.496     [Error  ] - End Task Tree, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <452961054749834048> 15/08/2025 11:43:41.497     [Error  ] - Internal transaction error  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\"
+ <452961054749834048> 15/08/2025 11:43:41.498     [Error  ] - Error: Thread aborted, so error marked.
+ <452961054749834048> 15/08/2025 11:43:41.499     [Error  ] - EndTaskRequest(): Adderi Cidades&Países;inicialização Cidade;Cidades EditInternal transaction errorERR-THREAD-ABORTED (-139) : "Adderi Cidades&Países.inicialização Cidade" ("GettingStarted")  (msgid "585")
+ <134497659300121056> 15/08/2025 13:20:37.973     [Error  ] - Execution Path: Adderi Cidades&Países;inicialização Cidade;Cidades Edit, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <134497659300121056> 15/08/2025 13:20:37.973     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <134497659300121056> 15/08/2025 13:20:37.974     [Error  ] -  Task Name: Adderi Cidades&Países, Tag: 3, Parent Tag: 2, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <134497659300121056> 15/08/2025 13:20:37.974     [Error  ] -  Task Name: inicialização Cidade, Tag: 14, Parent Tag: 3, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <134497659300121056> 15/08/2025 13:20:37.975     [Error  ] -  Task Name: Cidades Edit, Tag: 16, Parent Tag: 14, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <134497659300121056> 15/08/2025 13:20:37.975     [Error  ] - End Task Tree, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <134497659300121056> 15/08/2025 13:20:37.976     [Error  ] - Internal transaction error  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\"
+ <134497659300121056> 15/08/2025 13:20:37.977     [Error  ] - Error: Thread aborted, so error marked.
+ <134497659300121056> 15/08/2025 13:20:37.977     [Error  ] - EndTaskRequest(): Adderi Cidades&Países;inicialização Cidade;Cidades EditInternal transaction errorERR-THREAD-ABORTED (-139) : "Adderi Cidades&Países.inicialização Cidade" ("GettingStarted")  (msgid "611")
+ <277847455677777024> 15/08/2025 15:27:31.992     [Error  ] - Aborting context 277847455677777024, Program: "Main Program".
+ <493807251244928448> 15/08/2025 15:36:22.652     [Error  ] - Aborting context 493807251244928448, Program: "Main Program".
+ <276376944853027264> 15/08/2025 15:49:45.199     [Error  ] - Aborting context 276376944853027264, Program: "Main Program".
+ <72516315005795536> 15/08/2025 15:50:36.987     [Error  ] - Aborting context 72516315005795536, Program: "Main Program".
+ <100592959801073856> 15/08/2025 16:25:44.647     [Error  ] - Aborting context 100592959801073856, Program: "Main Program".
+ <18259414486691424> 15/08/2025 16:27:50.827     [Error  ] - Aborting context 18259414486691424, Program: "Main Program".
+ <415496264076748544> 15/08/2025 16:29:38.245     [Error  ] - Execution Path: Adderi Cidades&Países;inicialização Cidade;Cidades Edit, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <415496264076748544> 15/08/2025 16:29:38.246     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <415496264076748544> 15/08/2025 16:29:38.246     [Error  ] -  Task Name: Adderi Cidades&Países, Tag: 3, Parent Tag: 2, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <415496264076748544> 15/08/2025 16:29:38.246     [Error  ] -  Task Name: inicialização Cidade, Tag: 12, Parent Tag: 3, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <415496264076748544> 15/08/2025 16:29:38.246     [Error  ] -  Task Name: Cidades Edit, Tag: 13, Parent Tag: 12, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <415496264076748544> 15/08/2025 16:29:38.247     [Error  ] - End Task Tree, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <415496264076748544> 15/08/2025 16:29:38.247     [Error  ] - Internal transaction error  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\"
+ <415496264076748544> 15/08/2025 16:29:38.248     [Error  ] - Error: Thread aborted, so error marked.
+ <415496264076748544> 15/08/2025 16:29:38.248     [Error  ] - EndTaskRequest(): Adderi Cidades&Países;inicialização Cidade;Cidades EditInternal transaction errorERR-THREAD-ABORTED (-139) : "Adderi Cidades&Países.inicialização Cidade" ("GettingStarted")  (msgid "896")
+ <468710720415056768> 15/08/2025 16:31:27.955     [Error  ] - Execution Path: Adderi Cidades&Países;inicialização Cidade;Cidades Edit, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <468710720415056768> 15/08/2025 16:31:27.956     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <468710720415056768> 15/08/2025 16:31:27.956     [Error  ] -  Task Name: Adderi Cidades&Países, Tag: 3, Parent Tag: 2, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <468710720415056768> 15/08/2025 16:31:27.957     [Error  ] -  Task Name: inicialização Cidade, Tag: 4, Parent Tag: 3, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <468710720415056768> 15/08/2025 16:31:27.958     [Error  ] -  Task Name: Cidades Edit, Tag: 5, Parent Tag: 4, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <468710720415056768> 15/08/2025 16:31:27.959     [Error  ] - End Task Tree, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <468710720415056768> 15/08/2025 16:31:27.960     [Error  ] - Internal transaction error  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\"
+ <468710720415056768> 15/08/2025 16:31:27.960     [Error  ] - Error: Thread aborted, so error marked.
+ <468710720415056768> 15/08/2025 16:31:27.961     [Error  ] - EndTaskRequest(): Adderi Cidades&Países;inicialização Cidade;Cidades EditInternal transaction errorERR-THREAD-ABORTED (-139) : "Adderi Cidades&Países.inicialização Cidade" ("GettingStarted")  (msgid "901")
+ <548168327830475392> 15/08/2025 16:32:01.203     [Error  ] - Execution Path: Adderi Cidades&Países;inicialização Cidade;Cidades Edit, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <548168327830475392> 15/08/2025 16:32:01.203     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <548168327830475392> 15/08/2025 16:32:01.203     [Error  ] -  Task Name: Adderi Cidades&Países, Tag: 3, Parent Tag: 2, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <548168327830475392> 15/08/2025 16:32:01.204     [Error  ] -  Task Name: inicialização Cidade, Tag: 4, Parent Tag: 3, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <548168327830475392> 15/08/2025 16:32:01.204     [Error  ] -  Task Name: Cidades Edit, Tag: 5, Parent Tag: 4, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <548168327830475392> 15/08/2025 16:32:01.204     [Error  ] - End Task Tree, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <548168327830475392> 15/08/2025 16:32:01.205     [Error  ] - Internal transaction error  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\"
+ <548168327830475392> 15/08/2025 16:32:01.205     [Error  ] - Error: Thread aborted, so error marked.
+ <548168327830475392> 15/08/2025 16:32:01.206     [Error  ] - EndTaskRequest(): Adderi Cidades&Países;inicialização Cidade;Cidades EditInternal transaction errorERR-THREAD-ABORTED (-139) : "Adderi Cidades&Países.inicialização Cidade" ("GettingStarted")  (msgid "906")
+ <326223156390073472> 15/08/2025 16:32:59.369     [Error  ] - Execution Path: Adderi Cidades&Países;inicialização Cidade;Cidades Edit, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <326223156390073472> 15/08/2025 16:32:59.369     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <326223156390073472> 15/08/2025 16:32:59.369     [Error  ] -  Task Name: Adderi Cidades&Países, Tag: 3, Parent Tag: 2, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <326223156390073472> 15/08/2025 16:32:59.370     [Error  ] -  Task Name: inicialização Cidade, Tag: 4, Parent Tag: 3, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <326223156390073472> 15/08/2025 16:32:59.370     [Error  ] -  Task Name: Cidades Edit, Tag: 5, Parent Tag: 4, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <326223156390073472> 15/08/2025 16:32:59.370     [Error  ] - End Task Tree, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <326223156390073472> 15/08/2025 16:32:59.370     [Error  ] - Internal transaction error  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\"
+ <326223156390073472> 15/08/2025 16:32:59.371     [Error  ] - Error: Thread aborted, so error marked.
+ <326223156390073472> 15/08/2025 16:32:59.371     [Error  ] - EndTaskRequest(): Adderi Cidades&Países;inicialização Cidade;Cidades EditInternal transaction errorERR-THREAD-ABORTED (-139) : "Adderi Cidades&Países.inicialização Cidade" ("GettingStarted")  (msgid "911")
+ <58635443384435888> 15/08/2025 16:33:29.121     [Error  ] - Execution Path: Adderi Cidades&Países;inicialização Cidade;Cidades Edit, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <58635443384435888> 15/08/2025 16:33:29.122     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <58635443384435888> 15/08/2025 16:33:29.122     [Error  ] -  Task Name: Adderi Cidades&Países, Tag: 3, Parent Tag: 2, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <58635443384435888> 15/08/2025 16:33:29.123     [Error  ] -  Task Name: inicialização Cidade, Tag: 4, Parent Tag: 3, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <58635443384435888> 15/08/2025 16:33:29.123     [Error  ] -  Task Name: Cidades Edit, Tag: 5, Parent Tag: 4, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <58635443384435888> 15/08/2025 16:33:29.123     [Error  ] - End Task Tree, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <58635443384435888> 15/08/2025 16:33:29.124     [Error  ] - Error: Thread aborted, so error marked.
+ <58635443384435888> 15/08/2025 16:33:29.125     [Error  ] - EndTaskRequest(): Adderi Cidades&Países;inicialização Cidade;Cidades EditERR-THREAD-ABORTED (-139) : "Adderi Cidades&Países.inicialização Cidade" ("GettingStarted")  (msgid "916")
+ <351100585472329856> 15/08/2025 16:40:34.489     [Error  ] - Execution Path: Adderi Cidades&Países;inicialização Cidade;Cidades Edit, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <351100585472329856> 15/08/2025 16:40:34.490     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <351100585472329856> 15/08/2025 16:40:34.490     [Error  ] -  Task Name: Adderi Cidades&Países, Tag: 3, Parent Tag: 2, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <351100585472329856> 15/08/2025 16:40:34.491     [Error  ] -  Task Name: inicialização Cidade, Tag: 12, Parent Tag: 3, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <351100585472329856> 15/08/2025 16:40:34.491     [Error  ] -  Task Name: Cidades Edit, Tag: 13, Parent Tag: 12, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <351100585472329856> 15/08/2025 16:40:34.491     [Error  ] - End Task Tree, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <351100585472329856> 15/08/2025 16:40:34.492     [Error  ] - Internal transaction error  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\"
+ <351100585472329856> 15/08/2025 16:40:34.492     [Error  ] - Error: Thread aborted, so error marked.
+ <351100585472329856> 15/08/2025 16:40:34.493     [Error  ] - EndTaskRequest(): Adderi Cidades&Países;inicialização Cidade;Cidades EditInternal transaction errorERR-THREAD-ABORTED (-139) : "Adderi Cidades&Países.inicialização Cidade" ("GettingStarted")  (msgid "921")
+ <249235565232426528> 15/08/2025 16:42:39.026     [Error  ] - Execution Path: Adderi Cidades&Países;inicialização Cidade;Cidades Edit, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <249235565232426528> 15/08/2025 16:42:39.027     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <249235565232426528> 15/08/2025 16:42:39.027     [Error  ] -  Task Name: Adderi Cidades&Países, Tag: 3, Parent Tag: 2, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <249235565232426528> 15/08/2025 16:42:39.028     [Error  ] -  Task Name: inicialização Cidade, Tag: 7, Parent Tag: 3, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <249235565232426528> 15/08/2025 16:42:39.028     [Error  ] -  Task Name: Cidades Edit, Tag: 8, Parent Tag: 7, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <249235565232426528> 15/08/2025 16:42:39.029     [Error  ] - End Task Tree, Program: "Adderi Cidades&Países.inicialização Cidade.Cidades Edit".
+ <249235565232426528> 15/08/2025 16:42:39.029     [Error  ] - Internal transaction error  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\myAppMagicXpa\"
+ <249235565232426528> 15/08/2025 16:42:39.030     [Error  ] - Error: Thread aborted, so error marked.
+ <249235565232426528> 15/08/2025 16:42:39.031     [Error  ] - EndTaskRequest(): Adderi Cidades&Países;inicialização Cidade;Cidades EditInternal transaction errorERR-THREAD-ABORTED (-139) : "Adderi Cidades&Países.inicialização Cidade" ("GettingStarted")  (msgid "931")
+ <538842672497140096> 18/08/2025 08:36:24.882     [Error  ] - Aborting context 538842672497140096, Program: "Main Program".
+ <49402924180877712> 18/08/2025 08:40:12.240     [Error  ] - Aborting context 49402924180877712, Program: "Main Program".
+ <573707076560940928> 18/08/2025 08:40:12.242     [Error  ] - Aborting context 573707076560940928, Program: "Main Program".
+ <569693182094629888> 18/08/2025 09:04:29.656     [Error  ] - Aborting context 569693182094629888, Program: "Main Program".
+ <112316652056480448> 18/08/2025 10:13:41.558     [Error  ] - Aborting context 112316652056480448, Program: "Main Program".
+ <406280355907685824> 18/08/2025 10:14:44.275     [Error  ] - Aborting context 406280355907685824, Program: "Main Program".

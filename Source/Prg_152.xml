@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="Adderi Produtos" ISN_2="2" LastIsn="31" id="152">
-          <LastModified _date="739478" _time="33970" date="15/08/2025" time="09:26:10"/>
+          <LastModified _date="739481" _time="31023" date="18/08/2025" time="08:37:03"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -495,6 +495,7 @@
               <PropertyList model="CTRL_RICH_CLIENT_LABEL">
                 <Model comp="-1" id="1" obj="21"/>
                 <Text id="19" valUnicode="Lista de Produtos"/>
+                <Placement id="20" left="50"/>
                 <X id="21" val="89"/>
                 <Y id="22" val="12"/>
                 <Width id="23" val="155"/>
@@ -505,6 +506,7 @@
             <Control _test_id="15" id="15">
               <PropertyList model="CTRL_RICH_CLIENT_PUSH_BUTTON">
                 <Model comp="-1" id="1" obj="17"/>
+                <Placement id="20" left="50"/>
                 <X id="21" val="241"/>
                 <Y id="22" val="52"/>
                 <Width id="23" val="10"/>
@@ -521,6 +523,7 @@
             <Control _test_id="12" id="12">
               <PropertyList model="CTRL_RICH_CLIENT_PUSH_BUTTON">
                 <Model comp="-1" id="1" obj="17"/>
+                <Placement id="20" left="50"/>
                 <X id="21" val="272"/>
                 <Y id="22" val="52"/>
                 <Width id="23" val="10"/>
@@ -537,6 +540,7 @@
             <Control _test_id="11" id="11">
               <PropertyList model="CTRL_RICH_CLIENT_PUSH_BUTTON">
                 <Model comp="-1" id="1" obj="17"/>
+                <Placement id="20" left="50"/>
                 <X id="21" val="303"/>
                 <Y id="22" val="52"/>
                 <Width id="23" val="10"/>
@@ -553,6 +557,7 @@
             <Control _test_id="1" id="1">
               <PropertyList model="CTRL_RICH_CLIENT_TABLE">
                 <Model comp="-1" id="1" obj="15"/>
+                <Placement bottom="100" id="20" left="50"/>
                 <X id="21" val="9"/>
                 <Y id="22" val="70"/>
                 <Width id="23" val="320"/>

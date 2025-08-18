@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="Adderi Cidades II" ISN_2="1" LastIsn="6" id="153">
-          <LastModified _date="739478" _time="32197" date="15/08/2025" time="08:56:37"/>
+          <LastModified _date="739478" _time="37738" date="15/08/2025" time="10:28:58"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -188,7 +188,7 @@
             </LogicLines>
           </LogicUnit>
           <LogicUnit id="6" propagate="78">
-            <Level val="T"/>
+            <Level val="R"/>
             <Type val="P"/>
             <Scope val="S"/>
             <EngineDirective val="S"/>
@@ -197,7 +197,7 @@
             <Event>
               <EventType val="S"/>
             </Event>
-            <ExecuteOn_ val="S"/>
+            <ExecuteOn_ val="O"/>
             <LogicLines>
               <LogicLine>
                 <RaiseEvent FlowIsn="18">
